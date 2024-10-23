@@ -1381,6 +1381,11 @@ hash = "71cf6afe41f483f58245070a5cd23a9f75157027e0fce3af1413816d0268ef4a"
 metafile = true
 
 [[files]]
+file = "mods/true-darkness-refabricated.pw.toml"
+hash = "13cbee6610730b41cf0273aed8c89938bebc814ea35da3a860c6103fe7e796bd"
+metafile = true
+
+[[files]]
 file = "mods/tt20.pw.toml"
 hash = "41ca6fc9929ae83cd41518ab017081598d73c2ed3c6bcce01f27c00f917caab1"
 metafile = true

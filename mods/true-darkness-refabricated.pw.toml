@@ -1,0 +1,13 @@
+name = "True Darkness Refabricated"
+filename = "darkness-fabric-1.1.3+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pf8PJBb5/versions/jNxRm3Q9/darkness-fabric-1.1.3%2Bmc1.21.1.jar"
+hash-format = "sha1"
+hash = "f3a247a07e486b1e21d0ba99a31c0d0a98f8b44a"
+
+[update]
+[update.modrinth]
+mod-id = "Pf8PJBb5"
+version = "jNxRm3Q9"
