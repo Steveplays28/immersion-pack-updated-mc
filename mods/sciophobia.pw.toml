@@ -1,13 +1,13 @@
 name = "Sciophobia"
-filename = "sciophobia-1.1.0.jar"
+filename = "sciophobia-1.1.1+1.20.4-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UlfKEvQE/versions/aaUZKp0H/sciophobia-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/UlfKEvQE/versions/f2BbrQ1l/sciophobia-1.1.1%2B1.20.4-fabric.jar"
 hash-format = "sha1"
-hash = "136f07fe2797b56e66a06af2d49393e7397571ef"
+hash = "cd0b2ae62fd0e4dc8cedd2827cea74c8e4c85341"
 
 [update]
 [update.modrinth]
 mod-id = "UlfKEvQE"
-version = "aaUZKp0H"
+version = "f2BbrQ1l"

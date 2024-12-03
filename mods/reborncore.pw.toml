@@ -1,13 +1,13 @@
 name = "Reborn Core"
-filename = "RebornCore-5.11.10.jar"
+filename = "RebornCore-5.11.13.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cb3015260071bac5e64b7906493d8ead90592d3e"
+hash = "210e2837824eed41426f6f72ebe5818f66320414"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5608204
+file-id = 5939580
 project-id = 237903

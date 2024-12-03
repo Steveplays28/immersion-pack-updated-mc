@@ -1,8 +1,0 @@
-{
-	"type": "bigglobe:script",
-	"params": {
-		"type": "float",
-		"is_3d": false
-	},
-	"script": "height_adjusted_moisture(ceilInt(basic_surface_y))"
-}

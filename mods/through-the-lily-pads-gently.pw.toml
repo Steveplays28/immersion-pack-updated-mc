@@ -1,13 +1,13 @@
 name = "Through the lily pads, gently"
-filename = "through-the-lilypads-gently--mc1.21--fab--1.1.1.jar"
+filename = "through-the-lilypads-gently--mc1.21.1--fab--1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/i8eTQgbq/versions/PJpjySuF/through-the-lilypads-gently--mc1.21--fab--1.1.1.jar"
+url = "https://cdn.modrinth.com/data/i8eTQgbq/versions/4ac4R5Fc/through-the-lilypads-gently--mc1.21.1--fab--1.2.0.jar"
 hash-format = "sha1"
-hash = "b6e858d1588936327202f337da8f180eee4af309"
+hash = "c636074c34121e92604b6281e580cf702cc84e1b"
 
 [update]
 [update.modrinth]
 mod-id = "i8eTQgbq"
-version = "PJpjySuF"
+version = "4ac4R5Fc"

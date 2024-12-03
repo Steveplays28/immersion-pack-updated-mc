@@ -1,13 +1,13 @@
 name = "pv-addon-replaymod"
-filename = "pv-addon-replaymod-1.21-2.1.0.jar"
+filename = "pv-addon-replaymod-1.21-2.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4iTfB0AP/versions/1rNayfr4/pv-addon-replaymod-1.21-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/4iTfB0AP/versions/6unWwGkD/pv-addon-replaymod-1.21-2.1.1.jar"
 hash-format = "sha1"
-hash = "a12547b44514c3174d53cfc6bd6aa46c70c9d746"
+hash = "0eb56c2ba33ef393aa54feb0decd9254a83fd552"
 
 [update]
 [update.modrinth]
 mod-id = "4iTfB0AP"
-version = "1rNayfr4"
+version = "6unWwGkD"

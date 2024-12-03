@@ -37,7 +37,7 @@
 		//If true, Big Globe will generate distant terrain directly through Distant Horizons' API, skipping chunks entirely.
 		//If false, Big Globe will allow Distant Horizons to wrap Big Globe's default chunk generator.
 		//Enabling this config option will skip structures and features. In particular, you will not see any trees with this option enabled until you get close to them.
-		"Hyperspeed Generation": false,
+		"Hyperspeed Generation": true,
 
 		//If true, structures will not be generated in distant chunks, and you will not see structures until you get close enough to them.
 		//If false, structures will be generated in distant chunks, and you will be able to see them at any distance.
