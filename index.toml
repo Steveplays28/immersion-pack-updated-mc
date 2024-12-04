@@ -22,7 +22,7 @@ hash = "1facd9ce5d4b92836f5d07a90314fd4bea90feea10b9e964832b127838c0aa33"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "ef385498d1e7a0b1301f14118749017bcbaad72bd9f3343a091cf23f6df9d295"
+hash = "42f1bf4818572185303f66b89bce63ddf3877409587226ea2ed8677cc7534b1c"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
