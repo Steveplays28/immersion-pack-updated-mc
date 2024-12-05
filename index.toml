@@ -1010,11 +1010,6 @@ hash = "4aabdd45450a1475873d38bb8de88bf4e6fc7467a9a1b10fdd1bb80f0842ce17"
 metafile = true
 
 [[files]]
-file = "mods/moremcmeta-emissive.pw.toml"
-hash = "8936422f0bd7403e3f76338c6c61d2b4ef95157ecb05d37d4f0a81974b672b4d"
-metafile = true
-
-[[files]]
 file = "mods/moremcmeta.pw.toml"
 hash = "f7572b71e5a175033080c468e59596a3b822e2f31ec1f0dc7375455f65337740"
 metafile = true
