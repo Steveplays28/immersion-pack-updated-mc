@@ -820,6 +820,11 @@ hash = "4e48fdd28304a7a43dc9e2e8946abe8b80ed15d9507ea2f33a02c7df7fd01cbf"
 metafile = true
 
 [[files]]
+file = "mods/flowing-fluids.pw.toml"
+hash = "0d53c09689ae7e0c599fea7e6614d264840592467715c9e7db0463f5b33af0f3"
+metafile = true
+
+[[files]]
 file = "mods/followers-teleport-too.pw.toml"
 hash = "1eca04dd7e81a71d01e85148768057ac598e16edf6f1cd206452ac8b28f29bd3"
 metafile = true

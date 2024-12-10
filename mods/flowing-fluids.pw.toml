@@ -1,0 +1,13 @@
+name = "Flowing Fluids"
+filename = "flowing_fluids_fabric_1.21.1-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s1I3BT95/versions/Pwr6HyrT/flowing_fluids_fabric_1.21.1-0.3.1.jar"
+hash-format = "sha1"
+hash = "559e4fccb89768ab8aaf62e65e08a5b9dcd4967a"
+
+[update]
+[update.modrinth]
+mod-id = "s1I3BT95"
+version = "Pwr6HyrT"
