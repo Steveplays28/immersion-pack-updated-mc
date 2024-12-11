@@ -48,21 +48,26 @@ if (surfaceY.isBetween[minY, maxY]:
                         continue()
                     )
 
-                    BlockState slabBlockState = 'minecraft:stone_slab'
+                    String waterLoggedState = ''
+                    if (slabPosition < `bigglobe:overworld/sea_level`:
+                        waterLoggedState = '[waterlogged=true]'
+                    )
+
+                    BlockState slabBlockState = 'minecraft:stone_slab$waterLoggedState'
                     if (previousBlockState == BlockState('minecraft:grass_block'):
-                        slabBlockState = 'grassoverhaul:grass_sod_slab'
+                        slabBlockState = 'grassoverhaul:grass_sod_slab$waterLoggedState'
                     ) else if (previousBlockState == BlockState('minecraft:podzol'):
-                        slabBlockState = 'grassoverhaul:podzol_sod_slab'
+                        slabBlockState = 'grassoverhaul:podzol_sod_slab$waterLoggedState'
                     ) else if (previousBlockState == BlockState('minecraft:mycelium'):
-                        slabBlockState = 'grassoverhaul:mycelium_sod_slab'
+                        slabBlockState = 'grassoverhaul:mycelium_sod_slab$waterLoggedState'
                     ) else if (previousBlockState.isIn('#minecraft:dirt'):
-                        slabBlockState = 'grassoverhaul:dirt_sod_slab'
+                        slabBlockState = 'grassoverhaul:dirt_sod_slab$waterLoggedState'
                     ) else if (previousBlockState == BlockState('minecraft:diorite'):
-                        slabBlockState = 'grassoverhaul:diorite_slab'
+                        slabBlockState = 'grassoverhaul:diorite_slab$waterLoggedState'
                     ) else if (previousBlockState == BlockState('minecraft:granite'):
-                        slabBlockState = 'grassoverhaul:granite_slab'
+                        slabBlockState = 'grassoverhaul:granite_slab$waterLoggedState'
                     ) else if (previousBlockState == BlockState('minecraft:andesite'):
-                        slabBlockState = 'grassoverhaul:andesite_slab'
+                        slabBlockState = 'grassoverhaul:andesite_slab$waterLoggedState'
                     )
 
                     setBlockState(slabPosition, slabBlockState)

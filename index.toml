@@ -1724,7 +1724,7 @@ hash = "438056d091d6e7f4058c1553a42a81e2454ca47cf544e063e79b9128ae08bd0f"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation/data/bigglobe/bigglobe_script_files/world_preset/overworld_surface_placement.gs"
-hash = "5ee09c4d34655d32b06d3eb20a14f0ec8513a1b54f47e090c3ef1424faf61130"
+hash = "df0ed88327517c0cd2fff558c8c635e2bd776d8616330cfb7a1c97c0b115e815"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation/data/bigglobe/worldgen/biome/deep_ocean.json"
