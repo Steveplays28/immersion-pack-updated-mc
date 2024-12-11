@@ -467,6 +467,11 @@ hash = "2da3c626d2579327740f65596dccacc885a156ae314f5ce0192b241120c3192c"
 metafile = true
 
 [[files]]
+file = "mods/birds-boids-addon.pw.toml"
+hash = "1c902f5b8c8d3b4b79c8abe24ca3da0343ba7d04a005022cd41d5bc5bc44d355"
+metafile = true
+
+[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "88f0a020197fb516f215e798ab688990030b261d76287b7d34ed8ffa8bc7fd2a"
 metafile = true
@@ -1720,6 +1725,22 @@ hash = "438056d091d6e7f4058c1553a42a81e2454ca47cf544e063e79b9128ae08bd0f"
 [[files]]
 file = "resources/datapack/required/venture_world_generation/data/bigglobe/bigglobe_script_files/world_preset/overworld_surface_placement.gs"
 hash = "5ee09c4d34655d32b06d3eb20a14f0ec8513a1b54f47e090c3ef1424faf61130"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation/data/bigglobe/worldgen/biome/deep_ocean.json"
+hash = "8d2a2ead624d257482b23fee1503a38e2c13b5f34062ea90422c89f2325a2875"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation/data/bigglobe/worldgen/biome/ocean.json"
+hash = "8161bcd8fdc593196b4f17d4f6aa4abb3ef6ec5e7487eff5b3375b550a988f1c"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation/data/bigglobe/worldgen/biome/river.json"
+hash = "5e10d5403d6d48205c2746d3ead06332d514fc6d15e843b2e040d6d314a8a7fd"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation/data/bigglobe/worldgen/biome/shallow_ocean.json"
+hash = "1c32b445c2901ec6ac1ad792ae68cc879583b160209805fdcdef59fbcba494cf"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation/pack.mcmeta"
