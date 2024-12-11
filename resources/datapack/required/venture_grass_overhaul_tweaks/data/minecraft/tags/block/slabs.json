@@ -1,0 +1,12 @@
+{
+	"replace": false,
+	"values": [
+		"grassoverhaul:dirt_sod_slab",
+		"grassoverhaul:grass_sod_slab",
+		"grassoverhaul:path_sod_slab",
+		"grassoverhaul:mycelium_sod_slab",
+		"grassoverhaul:podzol_sod_slab",
+		"grassoverhaul:crimson_nylium_sod_slab",
+		"grassoverhaul:warped_nylium_sod_slab"
+	]
+}

@@ -855,6 +855,11 @@ hash = "a5bf27d533ba1811e62b0d9a6788bac13bf0b54df08e1a8fcc4c6843651754f1"
 metafile = true
 
 [[files]]
+file = "mods/grass-overhaul.pw.toml"
+hash = "7d9e62c0d03913ba7f4af2d70b30fe44195bf3382854a54f81d65cc36d268378"
+metafile = true
+
+[[files]]
 file = "mods/headfix.pw.toml"
 hash = "23c17a8a581bb238038501758dd2b6b7863e0589532b33010282d63680e48329"
 metafile = true
@@ -1037,6 +1042,11 @@ metafile = true
 [[files]]
 file = "mods/name-tag-tweaks.pw.toml"
 hash = "e7bfc575788a836de71a865d25e608b01ab00c50076d5b8ee7d23344f10f8e3f"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "fbd3c6d3edc0c3c31580676f3b2a8e47648585263b72c21a01a099e33b67d965"
 metafile = true
 
 [[files]]
@@ -1693,6 +1703,22 @@ hash = "80dbc83f1846b0367f98c937e23829b61bc36d47506741044580c02150f915a7"
 [[files]]
 file = "resources/datapack/required/immersium_advancements/pack.mcmeta"
 hash = "318b01cf938db1b4c3d31851c81d757fa6bc162baaf01c8ac1c4b8721a7cc5e3"
+
+[[files]]
+file = "resources/datapack/required/venture_grass_overhaul_tweaks/data/minecraft/tags/block/slabs.json"
+hash = "901fbe19128eeb917dbe8e974ee8af63dabda60641673f7720f9a154c259eb53"
+
+[[files]]
+file = "resources/datapack/required/venture_grass_overhaul_tweaks/pack.mcmeta"
+hash = "438056d091d6e7f4058c1553a42a81e2454ca47cf544e063e79b9128ae08bd0f"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation/data/bigglobe/bigglobe_script_files/world_preset/overworld_surface_placement.gs"
+hash = "5ee09c4d34655d32b06d3eb20a14f0ec8513a1b54f47e090c3ef1424faf61130"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation/pack.mcmeta"
+hash = "2cd4e34c0a7a38588447f5b2f4e5135904530f15c45733826f7dbcb020958e20"
 
 [[files]]
 file = "resources/resourcepack/required/immersium/assets/expanded_tooltips/lang/en_us.json"
