@@ -2,7 +2,7 @@
 	"music.overworld.snowy_slopes": {
 		"sounds": [
 			{
-				"name": "music/game/immersium_ost_3",
+				"name": "music/game/venture_ost_3",
 				"stream": true
 			}
 		]
@@ -10,7 +10,7 @@
 	"music.overworld.stony_peaks": {
 		"sounds": [
 			{
-				"name": "music/game/immersium_ost_3",
+				"name": "music/game/venture_ost_3",
 				"stream": true
 			}
 		]
@@ -18,7 +18,7 @@
 	"music.overworld.old_growth_taiga": {
 		"sounds": [
 			{
-				"name": "music/game/immersium_ost_3",
+				"name": "music/game/venture_ost_3",
 				"stream": true
 			}
 		]
@@ -26,7 +26,7 @@
 	"music.overworld.jagged_peaks": {
 		"sounds": [
 			{
-				"name": "music/game/immersium_ost_3",
+				"name": "music/game/venture_ost_3",
 				"stream": true
 			}
 		]
@@ -34,7 +34,7 @@
 	"music.overworld.grove": {
 		"sounds": [
 			{
-				"name": "music/game/immersium_ost_3",
+				"name": "music/game/venture_ost_3",
 				"stream": true
 			}
 		]
@@ -42,7 +42,7 @@
 	"music.overworld.frozen_peaks": {
 		"sounds": [
 			{
-				"name": "music/game/immersium_ost_3",
+				"name": "music/game/venture_ost_3",
 				"stream": true
 			}
 		]

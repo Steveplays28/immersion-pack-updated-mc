@@ -59,14 +59,14 @@ element {
 
 element {
   button_element_executable_block_identifier = 5988c79c-1345-4626-92f2-a1403d860460-1726260977705
-  [executable_action_instance:0b24b016-3d70-4d0a-b81f-45fbd34ec0b4-1726261191281][action_type:opengui] = immersium.gui.credits.modpack
+  [executable_action_instance:0b24b016-3d70-4d0a-b81f-45fbd34ec0b4-1726261191281][action_type:opengui] = venture.gui.credits.modpack
   [executable_block:5988c79c-1345-4626-92f2-a1403d860460-1726260977705][type:generic] = [executables:0b24b016-3d70-4d0a-b81f-45fbd34ec0b4-1726261191281;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = {"placeholder":"local","values":{"key":"credits_and_attribution.button.credits"}} (Immersium)
+  label = {"placeholder":"local","values":{"key":"credits_and_attribution.button.credits"}} (Venture)
   navigatable = true
   element_type = custom_button
   instance_identifier = 7636062b-c6f3-4751-b3b2-d8fe6250ed43-1726260977705

@@ -3,19 +3,19 @@ version: "3.8"
 services:
   mc:
     image: itzg/minecraft-server:java17-graalvm-ce
-    container_name: "immersium"
+    container_name: "venture"
     ports:
       - 25565:25565
       - 25049:25049
     volumes:
-      - docker/immersium/data:/data
+      - docker/venture/data:/data
     environment:
       EULA: "true"
       VERSION: "1.20.1"
       RCON_PASSWORD: "minecraftquilt"
       TYPE: QUILT
       QUILT_LOADER_VERSION: "0.21.0-beta.4"
-      PACKWIZ_URL: "https://github.com/Steveplays28/immersium/raw/1.20.1/pack.toml"
+      PACKWIZ_URL: "https://github.com/Steveplays28/venture/raw/1.20.1/pack.toml"
       ENABLE_WHITELIST: "true"
       ENFORCE_WHITELIST: "true"
       SNOOPER_ENABLED: "false"

@@ -1,4 +1,4 @@
-# Immersium
+# Venture
 
 Creativity and infrastructure based modpack with a focus on immersion, running on Minecraft `1.21.1` with the [Fabric Loader](https://fabricmc.net).  
 
@@ -6,7 +6,7 @@ Creativity and infrastructure based modpack with a focus on immersion, running o
 
 ### Client-side
 
-1. Download the Prism Launcher instance (which contains the Packwiz Installer bootstrap) from the repository's [releases tab](https://github.com/steves-underwater-paradise/immersium/releases/latest)
+1. Download the Prism Launcher instance (which contains the Packwiz Installer bootstrap) from the repository's [releases tab](https://github.com/steves-underwater-paradise/venture/releases/latest)
 2. Change the RAM allocation (6GB+ is recommended)
 3. Run the Prism Launcher instance (files will auto download from this GitHub repository using Packwiz)
 4. Tweak Minecraft (`options.txt` or in game) and Distant Horizons settings to your liking (`config/DistantHorizons.toml` or in game via `Options->DH button` or `Mod Menu->Distant Horizons->Config`)
@@ -39,7 +39,7 @@ Client:
 
 ## Contributing
 
-To report bugs/crashes, or give suggestions, head over to the repository's [issues tab](https://github.com/steves-underwater-paradise/immersium/issues).
+To report bugs/crashes, or give suggestions, head over to the repository's [issues tab](https://github.com/steves-underwater-paradise/venture/issues).
 
 ### Development
 
@@ -47,4 +47,4 @@ To report bugs/crashes, or give suggestions, head over to the repository's [issu
 2. Clone the repository
 3. Run the Visual Studio Code task (or the terminal command) `packwiz serve` (the Packwiz server will now run locally on port `8080`)
 4. Download the modpack's instance, see the [`installation guide`](#installation)
-5. Change the pre-launch command to `$INST_JAVA -jar packwiz-installer-bootstrap.jar "http://localhost:8080/pack.toml"` (default pre-launch command is `https://github.com/steves-underwater-paradise/immersium/raw/1.20.1/pack.toml`)
+5. Change the pre-launch command to `$INST_JAVA -jar packwiz-installer-bootstrap.jar "http://localhost:8080/pack.toml"` (default pre-launch command is `https://github.com/steves-underwater-paradise/venture/raw/1.20.1/pack.toml`)

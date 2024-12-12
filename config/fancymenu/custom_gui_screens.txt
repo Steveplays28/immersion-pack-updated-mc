@@ -4,8 +4,8 @@ overridden_screens {
 }
 
 custom_gui {
-  identifier = immersium.gui.credits.modpack
-  title = Credits (Immersium)
+  identifier = venture.gui.credits.modpack
+  title = Credits (Venture)
   allow_esc = true
   transparent_world_background = true
   transparent_world_background_overlay = true
