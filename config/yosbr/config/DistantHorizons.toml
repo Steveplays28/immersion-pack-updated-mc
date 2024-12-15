@@ -12,7 +12,7 @@ _version = 3
 	# Prefix of the level keys sent to the clients.
 	# If the mod is running behind a proxy, each backend should use a unique value.
 	# If this value is empty, level key will be based on the server's seed hash.
-	levelKeyPrefix = "Steveplays28"
+	levelKeyPrefix = ""
 	#
 	# Defines the distance allowed to be synchronized around the player. 
 	# Should be the same or larger than maxGenerationRequestDistance in most cases.
@@ -121,7 +121,7 @@ _version = 3
 		# If the total thread count in Distant Horizon's config is more threads than your CPU has cores, 
 		# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 		# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
-		numberOfLodBuilderThreads = 3
+		numberOfLodBuilderThreads = 2
 		#
 		# Should only be disabled if deadlock occurs and LODs refuse to update. 
 		# This will cause CPU usage to drastically increase for the Lod Builder threads. 
@@ -139,7 +139,7 @@ _version = 3
 		# If the total thread count in Distant Horizon's config is more threads than your CPU has cores, 
 		# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 		# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
-		numberOfNetworkCompressionThreads = 5
+		numberOfNetworkCompressionThreads = 4
 		#
 		# A value between 1.0 and 0.0 that represents the percentage 
 		# of time each thread can run before going idle. 
@@ -147,7 +147,7 @@ _version = 3
 		# This can be used to reduce CPU usage if the thread count 
 		# is already set to 1 for the given option, or more finely 
 		# tune CPU performance.
-		runTimeRatioForWorldGenerationThreads = "0.75"
+		runTimeRatioForWorldGenerationThreads = "1.0"
 		#
 		# A value between 1.0 and 0.0 that represents the percentage 
 		# of time each thread can run before going idle. 
@@ -155,7 +155,7 @@ _version = 3
 		# This can be used to reduce CPU usage if the thread count 
 		# is already set to 1 for the given option, or more finely 
 		# tune CPU performance.
-		runTimeRatioForLodBuilderThreads = "0.5"
+		runTimeRatioForLodBuilderThreads = "1.0"
 		#
 		# A value between 1.0 and 0.0 that represents the percentage 
 		# of time each thread can run before going idle. 
@@ -171,7 +171,7 @@ _version = 3
 		# This can be used to reduce CPU usage if the thread count 
 		# is already set to 1 for the given option, or more finely 
 		# tune CPU performance.
-		runTimeRatioForUpdatePropagatorThreads = "0.5"
+		runTimeRatioForUpdatePropagatorThreads = "1.0"
 		#
 		# A value between 1.0 and 0.0 that represents the percentage 
 		# of time each thread can run before going idle. 
@@ -179,7 +179,7 @@ _version = 3
 		# This can be used to reduce CPU usage if the thread count 
 		# is already set to 1 for the given option, or more finely 
 		# tune CPU performance.
-		runTimeRatioForNetworkCompressionThreads = "0.75"
+		runTimeRatioForNetworkCompressionThreads = "1.0"
 		#
 		# How many threads should be used when reading/writing LOD data to/from disk? 
 		# 
@@ -210,7 +210,7 @@ _version = 3
 		# If the total thread count in Distant Horizon's config is more threads than your CPU has cores, 
 		# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 		# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
-		numberOfUpdatePropagatorThreads = 3
+		numberOfUpdatePropagatorThreads = 5
 		#
 		# How many threads should be used when generating LOD 
 		# chunks outside the normal render distance? 
@@ -224,7 +224,7 @@ _version = 3
 		# If the total thread count in Distant Horizon's config is more threads than your CPU has cores, 
 		# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 		# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
-		numberOfWorldGenerationThreads = 2
+		numberOfWorldGenerationThreads = 1
 
 	[common.logging]
 		#
@@ -285,8 +285,15 @@ _version = 3
 		# 
 		# FEATURES 
 		# Generate everything except structures. 
-		# WARNING: This may cause world generator bugs or instability when paired with certain world generator mods.
-		distantGeneratorMode = "FEATURES"
+		# WARNING: This may cause world generator bugs or instability when paired with certain world generator mods. 
+		# 
+		# INTERNAL_SERVER 
+		# Ask the local server to generate/load each chunk. 
+		# This is the most compatible and will generate structures correctly, 
+		# but may cause server/simulation lag. 
+		# Note: unlike other modes this option DOES save generated chunks to 
+		# Minecraft's region files.
+		distantGeneratorMode = "INTERNAL_SERVER"
 		#
 		# How long should a world generator thread run for before timing out? 
 		# Note: If you are experiencing timeout errors it is better to lower your CPU usage first 
@@ -527,7 +534,7 @@ _version = 3
 				# Note: Due to current limitations, the min value is 50 
 				# and the max value is 5000. Any values outside this range 
 				# will be set to 0 (disabled).
-				earthCurveRatio = 0
+				earthCurveRatio = 50
 
 			[client.advanced.graphics.genericRendering]
 				#
@@ -602,7 +609,7 @@ _version = 3
 				blocksToIgnore = "NON_COLLIDING"
 				#
 				# The radius of the mod's render distance. (measured in chunks)
-				lodChunkRenderDistanceRadius = 128
+				lodChunkRenderDistanceRadius = 512
 				#
 				# What the value should vanilla Minecraft's texture LodBias be? 
 				# If set to 0 the mod wont overwrite vanilla's default (which so happens to also be 0)

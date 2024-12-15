@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitmodules"
-hash = "6fc427791eb5d4ea5d12edb0857ce1d68302a69b48cbce098929baf2c1e8d37d"
-
-[[files]]
 file = "config/bigglobe/Big Globe.json5"
 hash = "83bdfb194c536b4dfaccbab1d997aa69b536de6b203c6976c8b16b63df6072fd"
 
@@ -38,7 +34,7 @@ hash = "1ffc5b999244f116c1dab7f5af38a9135b1aee2020a80e2ec830e5bf06d68a03"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "f975451159fbb6c9a496086b3991674bec3ef22a07e9e5e067dbe29de9f84e2e"
+hash = "902f41bb20ecf5c6b3c687fd625937a2e2d165456e235075a064a9506982d845"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -46,14 +42,14 @@ hash = "98b1fab1fa75e315244f582815ee068779bfdfc975269e20c78155ca5dba4afb"
 
 [[files]]
 file = "config/fancymenu/customization/credits_and_attribution_screen_layout.txt"
-hash = "1ae0f9f89fe51f5391b4c8467c7193683a4f378933bb6c53d21e96e2cb162724"
+hash = "9d18ba88e7589701faba95711f20aeaff34ac4342999f49ac58982190a4a32aa"
 
 [[files]]
-file = "config/fancymenu/customization/venture.gui.credits.modpack_layout.txt"
-hash = "3719062e12817ef3e3189c259e461982113852fc66c79af36262031fb8c652d1"
+file = "config/fancymenu/customization/immersium.gui.credits.modpack_layout.txt"
+hash = "18ce8612fe52c639df28536f713a6da405145132c88af38ad893b9125742cb9c"
 
 [[files]]
-file = "config/fancymenu/customization/venture.txt"
+file = "config/fancymenu/customization/immersium.txt"
 hash = "31da439b24c8066e832c97c837cabe80ae327467c6a339ce2db18f162748dc63"
 
 [[files]]
@@ -242,7 +238,7 @@ hash = "40b9d9c0a0a09778c515f9a206e58d1a1d850d241240e99ec078fd50e9620bf8"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "3f92700d4fe4a09a3463152abfa595a66ca399d8ec6ed8fa4de16d0b9ab4d24d"
+hash = "08536b8de15e46d9d48cf2ca5dec9e7b67b61aad7d14a7a9c0e41f6d3caeeb52"
 
 [[files]]
 file = "config/yosbr/config/advancementplaques-common.toml"
@@ -344,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/DistantHorizons-2.3.0-b-dev-1.21.1-fabric-neoforge.jar"
-hash = "0ec5f32ab57386d1855fc1557d1e0eb2307aea0fcc275a8ba318be6efc763e87"
+hash = "5aee428887bfbd6fc32db7730642b8b3bd3c39bc964fdbbd9b936b235b0014ce"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -1696,7 +1692,7 @@ hash = "36a248b800cab4651770f1cf245f6d5f0b5cca3070fa3b6c817605cd349ef849"
 
 [[files]]
 file = "resources/datapack/required/venture/pack.mcmeta"
-hash = "8cf0a24d1ef750b358fe9552eb79c9ed74242875fdda2c6a4429cd5b537a5811"
+hash = "a1db4d6cee9209970a50b1620460671e0681a067f8b8f050adb9289cc53a2144"
 
 [[files]]
 file = "resources/datapack/required/venture_advancements/data/minecraft/advancement/end/root.json"
@@ -1712,7 +1708,7 @@ hash = "80dbc83f1846b0367f98c937e23829b61bc36d47506741044580c02150f915a7"
 
 [[files]]
 file = "resources/datapack/required/venture_advancements/pack.mcmeta"
-hash = "318b01cf938db1b4c3d31851c81d757fa6bc162baaf01c8ac1c4b8721a7cc5e3"
+hash = "5b57957432596905dcd8e5f714aa2f9619382649f5fd7eac840715e62089782c"
 
 [[files]]
 file = "resources/datapack/required/venture_grass_overhaul_tweaks/data/minecraft/tags/block/slabs.json"
@@ -1747,32 +1743,32 @@ file = "resources/datapack/required/venture_world_generation/pack.mcmeta"
 hash = "2cd4e34c0a7a38588447f5b2f4e5135904530f15c45733826f7dbcb020958e20"
 
 [[files]]
-file = "resources/resourcepack/required/venture/assets/expanded_tooltips/lang/en_us.json"
+file = "resources/resourcepack/required/immersium/assets/expanded_tooltips/lang/en_us.json"
 hash = "025bf18fa78048c566965baf3aa9ddad2342391a87b403e06926492e3dccffaa"
 
 [[files]]
-file = "resources/resourcepack/required/venture/assets/venture/lang/en_us.json"
+file = "resources/resourcepack/required/immersium/assets/immersium/lang/en_us.json"
 hash = "62fbbf4e2657b6a016be4e749145ffdc1809d2b77bf312f765306d54ab2cca64"
 
 [[files]]
-file = "resources/resourcepack/required/venture/assets/minecraft/sounds.json"
-hash = "c1467777cbe603ee4380b041a2c4f5f792db71a694d9436f93701a096d506605"
+file = "resources/resourcepack/required/immersium/assets/minecraft/sounds.json"
+hash = "78ec0e36a5e09415e1c4dbec518bd0b5eb13b34784d7d57a3fc865e3350c73d5"
 
 [[files]]
-file = "resources/resourcepack/required/venture/assets/minecraft/sounds/music/game/venture_ost_3.ogg"
+file = "resources/resourcepack/required/immersium/assets/minecraft/sounds/music/game/immersium_ost_3.ogg"
 hash = "d4a2a652305b53010e3fe6bb88bfef89f5c5a3ec0c10ae3782d9ca160357e244"
 
 [[files]]
-file = "resources/resourcepack/required/venture/pack.mcmeta"
-hash = "d5f0b80cfd3684cda7916ac35b8f2346a5431e2c0f88e232da9e767ab77e9c37"
+file = "resources/resourcepack/required/immersium/pack.mcmeta"
+hash = "d758c0614f1a96074464284f160bd0000139aff63e0fd56cf89d28cf2a1fd87f"
 
 [[files]]
-file = "resources/resourcepack/required/venture_advancements/assets/venture/lang/en_us.json"
+file = "resources/resourcepack/required/immersium_advancements/assets/immersium/lang/en_us.json"
 hash = "53afe5bca170bc1f77e397df76aacc7b2d7a36a2dfcbd5b1f0ad40b4c707978b"
 
 [[files]]
-file = "resources/resourcepack/required/venture_advancements/pack.mcmeta"
-hash = "318b01cf938db1b4c3d31851c81d757fa6bc162baaf01c8ac1c4b8721a7cc5e3"
+file = "resources/resourcepack/required/immersium_advancements/pack.mcmeta"
+hash = "5b57957432596905dcd8e5f714aa2f9619382649f5fd7eac840715e62089782c"
 
 [[files]]
 file = "shaderpacks/Bliss-main.zip.txt"
