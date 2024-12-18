@@ -1,13 +1,13 @@
 name = "[EMF] Entity Model Features"
-filename = "entity_model_features_fabric_1.21-2.2.6.jar"
+filename = "entity_model_features_fabric_1.21.1-2.4.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/Qql6TI9W/entity_model_features_fabric_1.21-2.2.6.jar"
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/9t01xL7K/entity_model_features_fabric_1.21.1-2.4.1.jar"
 hash-format = "sha1"
-hash = "7a0d5b5388a4f55bcb4e50502893d2e6d69bae1c"
+hash = "3e36fb8c0baec24e8ef472269aef1a21fb2c0599"
 
 [update]
 [update.modrinth]
 mod-id = "4I1XuqiY"
-version = "Qql6TI9W"
+version = "9t01xL7K"

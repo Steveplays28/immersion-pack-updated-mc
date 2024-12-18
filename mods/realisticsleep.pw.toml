@@ -1,13 +1,13 @@
 name = "Realistic Sleep"
-filename = "stevesrealisticsleep-fabric-1.11.1+mc1.21-1.21.1.jar"
+filename = "stevesrealisticsleep-fabric-1.11.2+mc1.21-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZPywkPEo/versions/oT0T8xQV/stevesrealisticsleep-fabric-1.11.1%2Bmc1.21-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/ZPywkPEo/versions/T1vxZAJQ/stevesrealisticsleep-fabric-1.11.2%2Bmc1.21-1.21.1.jar"
 hash-format = "sha1"
-hash = "090022de799c2d53fbc35a5d3d94201c46fe6a74"
+hash = "7cc5a034d0f62ecce73525cd8af2b1610aa4dc0d"
 
 [update]
 [update.modrinth]
 mod-id = "ZPywkPEo"
-version = "oT0T8xQV"
+version = "T1vxZAJQ"
