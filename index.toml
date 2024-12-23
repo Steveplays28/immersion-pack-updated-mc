@@ -398,6 +398,11 @@ hash = "33e38f64db34f3f50d5679d78f4b7085dc498aab31574f7bb8ffc4053537b0ec"
 metafile = true
 
 [[files]]
+file = "mods/async.pw.toml"
+hash = "a76c98226374e54e78a5b1ec4b45f9fecc60a771701e08e6f0ed28ad2f31038a"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "fe933aac7fada313a214ca060a40400ebc9d07d5184fcf286825f1ab64d8f78d"
 metafile = true
@@ -600,11 +605,6 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "3ef80bdeb1e484c66cf055a7ec027fadb28c40d8483ec05512ffd62b41f0fbae"
-metafile = true
-
-[[files]]
-file = "mods/creeper-overhaul.pw.toml"
-hash = "e63b2da7e60250923daacb12ccd67e2d75b3f9e24a1e7d1c7b93de60ed5c48b5"
 metafile = true
 
 [[files]]
@@ -903,11 +903,6 @@ metafile = true
 [[files]]
 file = "mods/instant-sneak.pw.toml"
 hash = "fd95da6899882c1adbf7c37df718fb434467f3ea95f1125bb46f7732dd5c3178"
-metafile = true
-
-[[files]]
-file = "mods/inventory-tabs.pw.toml"
-hash = "6406afec3661c869151bfb07c6cb2dffe950318e4d0e4e08c470be0373aa8926"
 metafile = true
 
 [[files]]
