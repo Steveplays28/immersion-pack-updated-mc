@@ -448,6 +448,11 @@ hash = "a88687cadae4ff52fe3e9385add94d1b51bf6f17ac00cae36e19402bf0756348"
 metafile = true
 
 [[files]]
+file = "mods/better-snow-coverage.pw.toml"
+hash = "a2b40e8cc789aeb1d6daf6561b587e2ba2ae534bb30d6afddae5b822a0c91000"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "d9ce1131d355fe50acd05afdd43dccf55ee9bede146bd1ba92b74bab80b052b5"
 metafile = true
