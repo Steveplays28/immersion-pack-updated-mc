@@ -26,7 +26,7 @@ hash = "b9f7e444e92a9f4e67d01741f5853271744e278d6996a100f8f590c6fa3c90aa"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d26e22239ccf0ffda627969105b84791db5cb6844aa4b3a01121e0f5b4433e03"
+hash = "dbf4ec0f8be01bde0d1014e722c4a06af9c14749eb81abb3031d82aa286b41a0"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -674,6 +674,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "bd02cc1b0ee4feea5c920bc2b3858ddb3c3d98ece259507169956fdabb54b759"
+metafile = true
+
+[[files]]
+file = "mods/effortless.pw.toml"
+hash = "6d8a9a96532963568a64d4ee56cfc41877cb596f9458acd71ae367ad8001cc81"
 metafile = true
 
 [[files]]
