@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/DistantHorizons-2.3.0-b-dev-1.21.1-fabric-neoforge.jar"
-hash = "2f5eb3c2deda517d74bfa7c83e64a2baf91c7a4646ba24d6868df421bdfdb7b3"
+hash = "edd68969bae9ccb7da995f24412f6a8aeee5454381bbe20031ff52d731b94397"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
