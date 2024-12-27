@@ -1,0 +1,36 @@
+{
+  "dimensions": {
+    "minecraft:overworld": {
+      "type": "bigglobe:overworld",
+      "generator": {
+        "type": "bigglobe:scripted",
+        "biome_source": {
+          "type": "bigglobe:scripted",
+          "script": "`venture:continents/biome`",
+          "all_possible_biomes": "#venture:overworld"
+        },
+        "height": {
+          "min_y": -2016,
+          "max_y": 2016,
+          "sea_level": 0
+        },
+        "world_traits": "venture:continents",
+        "layer": {
+          "state": "'minecraft:air'",
+          "children": []
+        },
+        "feature_dispatcher": {
+          "rock_replacers": [
+            "bigglobe:overworld/bedrock"
+          ],
+          "raw": "venture:continents/raw_root",
+          "normal": "venture:continents/normal_root"
+        },
+        "overriders": "#venture:continents",
+        "spawn_point": {
+          "file": "venture:spawn_point/continents"
+        }
+      }
+    }
+  }
+}
