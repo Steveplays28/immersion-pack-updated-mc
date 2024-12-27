@@ -1375,6 +1375,11 @@ hash = "c88019b7e8830ab146f69446629e4819758cf4e6b40cf5182af8d46097e5df7e"
 metafile = true
 
 [[files]]
+file = "mods/terrestria.pw.toml"
+hash = "5afa49c5ff2f2ce6ab70c5d29e493e8314758e12fea07e1ec08e4ec0bd8b5187"
+metafile = true
+
+[[files]]
 file = "mods/textile_backup.pw.toml"
 hash = "aae8edc33d468ede69bee297acd2cfc8faee0f88157bf9bbccdbdbf80c231c01"
 metafile = true
