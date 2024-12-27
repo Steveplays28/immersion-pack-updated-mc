@@ -1724,6 +1724,238 @@ file = "resources/datapack/required/venture_grass_overhaul_tweaks/pack.mcmeta"
 hash = "438056d091d6e7f4058c1553a42a81e2454ca47cf544e063e79b9128ae08bd0f"
 
 [[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/abandoned_city.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/amethyst_geode.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/bigger_desert_pyramid.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/campfire.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/core_spire.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/endger_sponge.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/large_dungeon.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/large_house.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/lava_lake.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/log_cabin.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/medium_dungeon.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/medium_house.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/mega_tree.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/nether_pillar/broken.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/nether_pillar/extra.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/nether_pillar/normal.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/octahedron.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/portal_temple.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/portal_temple_cracked.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/prismarine_geode.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/quartz_geodes.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/small_dungeon.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/small_house.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/snowflake.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/soul_campfire.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/surface_mineshaft.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/tetrahedron.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/underground_pocket/lava.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/underground_pocket/nether_lava.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/underground_pocket/nether_soul_lava.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/underground_pocket/water.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/ancient_city.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/buried_treasure.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/desert_pyramid.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/end_city.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/igloo.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/jungle_temple.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/mineshaft.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/mineshaft_mesa.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/ocean_monument.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/ocean_ruin_cold.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/ocean_ruin_warm.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/pillager_outpost.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/shipwreck.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/shipwreck_beached.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/stronghold.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/swamp_hut.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/trail_ruins.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/village_desert.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/village_plains.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/village_savanna.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/village_snowy.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/village_taiga.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/vanilla/woodland_mansion.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/water_lake.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/well.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/windmill.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "resources/datapack/required/venture_structure_removal/pack.mcmeta"
+hash = "4ec6dfd2bef3d41f93954211c974e882fdee7b7630870a4848a75f1cffb64ed7"
+
+[[files]]
 file = "resources/datapack/required/venture_world_generation/data/bigglobe/bigglobe_script_files/world_preset/overworld_surface_placement.gs"
 hash = "5b94adc0187abfe7f274c55821132aac14a820cfe811699f1926508fdcc5b283"
 
