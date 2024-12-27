@@ -1505,206 +1505,6 @@ hash = "edf6ceca356a3f36977b5fc8f4c4953c835bc38d3e206a32f95e41377013dbef"
 metafile = true
 
 [[files]]
-file = "resources/datapack/required/venture/data/bigglobe/tags/worldgen/biome/has_structure/campfire.json"
-hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
-
-[[files]]
-file = "resources/datapack/required/venture/data/bigglobe/tags/worldgen/biome/has_structure/large_dungeon.json"
-hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
-
-[[files]]
-file = "resources/datapack/required/venture/data/bigglobe/tags/worldgen/biome/has_structure/large_house.json"
-hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
-
-[[files]]
-file = "resources/datapack/required/venture/data/bigglobe/tags/worldgen/biome/has_structure/log_cabin.json"
-hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
-
-[[files]]
-file = "resources/datapack/required/venture/data/bigglobe/tags/worldgen/biome/has_structure/medium_dungeon.json"
-hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
-
-[[files]]
-file = "resources/datapack/required/venture/data/bigglobe/tags/worldgen/biome/has_structure/small_dungeon.json"
-hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
-
-[[files]]
-file = "resources/datapack/required/venture/data/bigglobe/tags/worldgen/biome/has_structure/small_house.json"
-hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
-
-[[files]]
-file = "resources/datapack/required/venture/data/bigglobe/tags/worldgen/configured_feature/overworld/rock_layers.json"
-hash = "1513f23886728b1ce41ce885faacca8496ba44c737216990616b2ee38276b684"
-
-[[files]]
-file = "resources/datapack/required/venture/data/c/tags/block/workbenches.json"
-hash = "9a7834be35ec2cc8b1f21bc8ea68cab551625ecab9493c1fee240697a9071c44"
-
-[[files]]
-file = "resources/datapack/required/venture/data/c/tags/item/axes.json"
-hash = "03372faa5e2437a5093f002cdd07a46a221b4f1dd7cc8bf2b4d3ce7f6bad7165"
-
-[[files]]
-file = "resources/datapack/required/venture/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "e838bb65279c23b03220dc1cf9c565e1e45b693cdc0f110aa59ac700c3017be5"
-
-[[files]]
-file = "resources/datapack/required/venture/data/c/tags/item/hoes.json"
-hash = "cd1480806626c2a633795a1588069ce5e7916a0330bdb0a19825ab88f8b9913c"
-
-[[files]]
-file = "resources/datapack/required/venture/data/c/tags/item/pickaxes.json"
-hash = "76d690d37a1d81488f5f6a63a533085d82ace8f24293b2a7c847d43e5f08899c"
-
-[[files]]
-file = "resources/datapack/required/venture/data/c/tags/item/shovels.json"
-hash = "05f90482a597836e4d8f29a2513c2837521e9ef352d5138ee591bf0d6ebdf41f"
-
-[[files]]
-file = "resources/datapack/required/venture/data/c/tags/item/swords.json"
-hash = "7bf483d98eb603e7e61a674e72e3fbecbfc74ea363ab88dbb8f18400ffb4ccf2"
-
-[[files]]
-file = "resources/datapack/required/venture/data/c/tags/item/tools/axes.json"
-hash = "03372faa5e2437a5093f002cdd07a46a221b4f1dd7cc8bf2b4d3ce7f6bad7165"
-
-[[files]]
-file = "resources/datapack/required/venture/data/c/tags/item/tools/hoes.json"
-hash = "cd1480806626c2a633795a1588069ce5e7916a0330bdb0a19825ab88f8b9913c"
-
-[[files]]
-file = "resources/datapack/required/venture/data/c/tags/item/tools/pickaxes.json"
-hash = "76d690d37a1d81488f5f6a63a533085d82ace8f24293b2a7c847d43e5f08899c"
-
-[[files]]
-file = "resources/datapack/required/venture/data/c/tags/item/tools/shovels.json"
-hash = "05f90482a597836e4d8f29a2513c2837521e9ef352d5138ee591bf0d6ebdf41f"
-
-[[files]]
-file = "resources/datapack/required/venture/data/c/tags/item/tools/swords.json"
-hash = "7bf483d98eb603e7e61a674e72e3fbecbfc74ea363ab88dbb8f18400ffb4ccf2"
-
-[[files]]
-file = "resources/datapack/required/venture/data/c/tags/item/workbenches.json"
-hash = "9a7834be35ec2cc8b1f21bc8ea68cab551625ecab9493c1fee240697a9071c44"
-
-[[files]]
-file = "resources/datapack/required/venture/data/computercraft/recipe/turtle_advanced/minecraft/crafting_table.json"
-hash = "a55c6dcb5c77ba26b136c957bcad1bd16a5d51f3716e43afc3e19152d481961c"
-
-[[files]]
-file = "resources/datapack/required/venture/data/computercraft/recipe/turtle_advanced/minecraft/diamond_axe.json"
-hash = "fc660cbdd50f6c810174012361c00d2b9dc6aaab249942b556ee3824cbf339fa"
-
-[[files]]
-file = "resources/datapack/required/venture/data/computercraft/recipe/turtle_advanced/minecraft/diamond_hoe.json"
-hash = "609e4816dfd6c20fd76c9465b96b04cd8f47fcb50ccedfe9be9316560e9f82f5"
-
-[[files]]
-file = "resources/datapack/required/venture/data/computercraft/recipe/turtle_advanced/minecraft/diamond_pickaxe.json"
-hash = "bad0a061f7c44832726a3341980afefc77608b0d90eba67f7f7c9cf50919844f"
-
-[[files]]
-file = "resources/datapack/required/venture/data/computercraft/recipe/turtle_advanced/minecraft/diamond_shovel.json"
-hash = "393d618255884235ac29790930532ac81ac40592c748012c8373e5bcbfc8f292"
-
-[[files]]
-file = "resources/datapack/required/venture/data/computercraft/recipe/turtle_advanced/minecraft/diamond_sword.json"
-hash = "3b1b40b4d69a3aac2ccedfd357666899ff0d284053014cf56df7012e02124967"
-
-[[files]]
-file = "resources/datapack/required/venture/data/computercraft/recipe/turtle_advanced/minecraft/netherite_pickaxe.json"
-hash = "3a830157aa9a1979e3e57db9b38f6f32576f445844c8e56f367a839fb2e258da"
-
-[[files]]
-file = "resources/datapack/required/venture/data/computercraft/recipe/turtle_normal/minecraft/crafting_table.json"
-hash = "09f76e3052d6a3a74f82188e5ae921335655149ea9ccc18ed643f0bc80d874b4"
-
-[[files]]
-file = "resources/datapack/required/venture/data/computercraft/recipe/turtle_normal/minecraft/diamond_axe.json"
-hash = "3168ac9eb42594abcca6ace643382c8fc32698b2fa32f4d67a8b5fac56e72826"
-
-[[files]]
-file = "resources/datapack/required/venture/data/computercraft/recipe/turtle_normal/minecraft/diamond_hoe.json"
-hash = "9666ec6df2c03042c6fdbea6b8bd2e4e27bd685889113002db05bfd32a8c758a"
-
-[[files]]
-file = "resources/datapack/required/venture/data/computercraft/recipe/turtle_normal/minecraft/diamond_pickaxe.json"
-hash = "b1002e8a02e1280126175924354814878039f6e5d75e95420b05cd2b43c126c1"
-
-[[files]]
-file = "resources/datapack/required/venture/data/computercraft/recipe/turtle_normal/minecraft/diamond_shovel.json"
-hash = "71f7624b2608f0e3ef1beff5b36e12c056c13e02ae5980364850bd1f7dca3288"
-
-[[files]]
-file = "resources/datapack/required/venture/data/computercraft/recipe/turtle_normal/minecraft/diamond_sword.json"
-hash = "f895c1dfe08ead0e32b224210c2adb1a017a6cbaeec2dae4cca35c42ea7ce646"
-
-[[files]]
-file = "resources/datapack/required/venture/data/computercraft/recipe/turtle_normal/minecraft/netherite_pickaxe.json"
-hash = "005cec0c5fce379f84201044a6bf84cfe5a90b5eaa09e3a49d386030d74296ff"
-
-[[files]]
-file = "resources/datapack/required/venture/data/consistency_plus/recipe/copper_nugget.json"
-hash = "0d2908fcf74cadd8fee93d221ef06eca382f3fb29399be6990805bd4a480e701"
-
-[[files]]
-file = "resources/datapack/required/venture/data/consistency_plus/recipe/copper_nugget_blast_spyglass.json"
-hash = "e9e9c97ee5a05c7c519116e5fa32871e82c733cd876f5b03bdef0d65ae8e09c1"
-
-[[files]]
-file = "resources/datapack/required/venture/data/consistency_plus/recipe/copper_nugget_smelt_spyglass.json"
-hash = "792b31db3b7162a99472fbd69dd9bfaca23aa0728283ee5fd3eca2dee4db9e0d"
-
-[[files]]
-file = "resources/datapack/required/venture/data/forgero/recipe/dissasembly_station.json"
-hash = "bd2372f80d63de5cad951936ab11d4438a5c4e70915db2ab61fc5bfc064b12db"
-
-[[files]]
-file = "resources/datapack/required/venture/data/tablesaw/recipe/tablesaw.json"
-hash = "758915bc9350e7424d24e57b2a92ec29e992da75af21c9a382b591c950256b6e"
-
-[[files]]
-file = "resources/datapack/required/venture/data/techreborn/recipe/centrifuge/brass_dust.json"
-hash = "c9be7c3772a3b2c91c7659dac45cdd1664c341e7a5646359e1cd27ba3645d74e"
-
-[[files]]
-file = "resources/datapack/required/venture/data/techreborn/recipe/centrifuge/bronze_dust.json"
-hash = "adfa75bf71de4729d0e12ad6425f64d1c96f4b9908fbcc91d12d28a881d7c68e"
-
-[[files]]
-file = "resources/datapack/required/venture/data/techreborn/recipe/centrifuge/nickel_dust.json"
-hash = "8f51a8ac523922dadf2602cb4950d60e3f97f54874fbf596709d38a44b184396"
-
-[[files]]
-file = "resources/datapack/required/venture/data/techreborn/recipe/centrifuge/raw_gold.json"
-hash = "0b0a53f6280e01765d43726bdce8a16e237a8f5d35d7a5779b66f71924349b09"
-
-[[files]]
-file = "resources/datapack/required/venture/data/techreborn/recipe/copper_nugget.json"
-hash = "0d2908fcf74cadd8fee93d221ef06eca382f3fb29399be6990805bd4a480e701"
-
-[[files]]
-file = "resources/datapack/required/venture/data/techreborn/recipe/industral_grinder/raw_gold_from_gold_ore_with_mercury.json"
-hash = "ab1fc6699e8535f547e208e62d742a8d61d2d853c1020baf9c85b0554c037a45"
-
-[[files]]
-file = "resources/datapack/required/venture/data/techreborn/recipe/industral_grinder/raw_gold_from_gold_ore_with_water.json"
-hash = "85c62b3173d7fc55b424520c67a5a39a6be1a9636d4d59b86bc373708fd70d3b"
-
-[[files]]
-file = "resources/datapack/required/venture/data/techreborn/recipe/scrapbox/auto/copper_nugget.json"
-hash = "98d22eae2c3da70ae4509e6d6a7ed68e7555979e2a58ffd49fbc861f50e10ccf"
-
-[[files]]
-file = "resources/datapack/required/venture/data/techreborn/tags/items/nuggets.json"
-hash = "36a248b800cab4651770f1cf245f6d5f0b5cca3070fa3b6c817605cd349ef849"
-
-[[files]]
-file = "resources/datapack/required/venture/pack.mcmeta"
-hash = "a1db4d6cee9209970a50b1620460671e0681a067f8b8f050adb9289cc53a2144"
-
-[[files]]
 file = "resources/datapack/required/venture_advancements/data/minecraft/advancement/end/root.json"
 hash = "23ee8150665325585d1f9c57f901a5b20d6e40a28529a1c22ee3c5734502b078"
 
@@ -1727,6 +1527,14 @@ hash = "901fbe19128eeb917dbe8e974ee8af63dabda60641673f7720f9a154c259eb53"
 [[files]]
 file = "resources/datapack/required/venture_grass_overhaul_tweaks/pack.mcmeta"
 hash = "438056d091d6e7f4058c1553a42a81e2454ca47cf544e063e79b9128ae08bd0f"
+
+[[files]]
+file = "resources/datapack/required/venture_recipe_viewers_tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
+hash = "e838bb65279c23b03220dc1cf9c565e1e45b693cdc0f110aa59ac700c3017be5"
+
+[[files]]
+file = "resources/datapack/required/venture_recipe_viewers_tweaks/pack.mcmeta"
+hash = "a1db4d6cee9209970a50b1620460671e0681a067f8b8f050adb9289cc53a2144"
 
 [[files]]
 file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/abandoned_city.json"
@@ -1983,6 +1791,10 @@ hash = "1c32b445c2901ec6ac1ad792ae68cc879583b160209805fdcdef59fbcba494cf"
 [[files]]
 file = "resources/datapack/required/venture_world_generation/pack.mcmeta"
 hash = "2cd4e34c0a7a38588447f5b2f4e5135904530f15c45733826f7dbcb020958e20"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_temperature/data/bigglobe/worldgen/bigglobe_column_value/continents/temperature.json"
+hash = "1ae982961f7bb89dfd0d07b512d39fcb5240ce0f038edaecf960c64f81bf41a2"
 
 [[files]]
 file = "resources/resourcepack/required/immersium/assets/expanded_tooltips/lang/en_us.json"
