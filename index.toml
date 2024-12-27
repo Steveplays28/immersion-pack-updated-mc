@@ -1806,7 +1806,11 @@ hash = "bc251a52d7641edee31e08c52d91b0cfc60b6ef493530d7db33e2b75dd8cfb3e"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_temperature/data/venture/worldgen/bigglobe_column_value/continents/temperature.json"
-hash = "1ae982961f7bb89dfd0d07b512d39fcb5240ce0f038edaecf960c64f81bf41a2"
+hash = "5f8d2ed80e59da20ec34294f751fd87e8a024304e8f68c13f5c2323d5bfa06da"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_temperature/data/venture/worldgen/bigglobe_column_value/continents/temperature_noise.json"
+hash = "e3119d8f8562030fa6e756c052a8bc86a26f218a4f869e716284c3a44eef3ba9"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_temperature/pack.mcmeta"
