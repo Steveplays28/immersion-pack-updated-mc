@@ -1,7 +1,0 @@
-{
-	"replace": false,
-	"values": [
-		"minecraft:crafting_table",
-		"#variantcraftingtables:crafting_tables"
-	]
-}
