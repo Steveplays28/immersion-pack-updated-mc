@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-impressive-animation.pw.toml"
-hash = "6adf7243649549a50fea94b00a0327bd1d04b8bd"
+hash = "fec1fddd3732a18c41f28bdbf00a2a2b35950f76233a40a1d8f8091479d9f8d5"
 metafile = true
 
 [[files]]
@@ -1793,6 +1793,26 @@ file = "resources/datapack/required/venture_world_generation/pack.mcmeta"
 hash = "2cd4e34c0a7a38588447f5b2f4e5135904530f15c45733826f7dbcb020958e20"
 
 [[files]]
+file = "resources/datapack/required/venture_world_generation_biomes/data/venture/tags/worldgen/biome/continents/all_possible_biomes.json"
+hash = "0461d95a1a562eada048c4c97a8694cd12f70938521e70a5b87e3dda7bbd2f47"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_biomes/data/venture/worldgen/bigglobe_column_value/continents/biome.json"
+hash = "a154772c89886e5a12c7d8ad32c3916812a2c4f5d17c7de8947ad524aaf63df8"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_biomes/data/venture/worldgen/bigglobe_decision_tree/continents/biome/empty.json"
+hash = "465d00c743025a988ab4eab546f0874de78251029c6cbf6d65b661be9063d41b"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_biomes/data/venture/worldgen/biome/empty.json"
+hash = "4bdbefcb2fd807f6a349444aacc28eb46aecfc0c5665d94840ac70dc548f7d53"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_biomes/pack.mcmeta"
+hash = "65a95589e99d1751e2d7e84a59fc35404749b7b003cfcc0b544f9e22d18c65c2"
+
+[[files]]
 file = "resources/datapack/required/venture_world_generation_feature_dispatchers/data/venture/worldgen/bigglobe_feature_dispatchers/continents/normal_root.json"
 hash = "5bc8fb053c6066f78b99049f71bf63ae14a3616cc138aec74446510d23a58291"
 
@@ -1834,7 +1854,7 @@ hash = "49628009a4b6e1f4b66b9f3b6842423d60085f9ec94467f3ccbbf28862d78f7a"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_world_type/data/venture/worldgen/world_preset/continents.json"
-hash = "dcbf5a97c5a59a9ae2225e58aa612f9ddac0981af435ad6697d03576a71352e8"
+hash = "4bb69c16f5c88c1cc43fdb160bf087907ac2f125dde3bf30135b321903034388"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_world_type/pack.mcmeta"

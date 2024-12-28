@@ -7,7 +7,7 @@
         "biome_source": {
           "type": "bigglobe:scripted",
           "script": "`venture:continents/biome`",
-          "all_possible_biomes": "#venture:overworld"
+          "all_possible_biomes": "#venture:continents/all_possible_biomes"
         },
         "height": {
           "min_y": -2016,
