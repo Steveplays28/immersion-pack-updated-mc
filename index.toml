@@ -543,8 +543,8 @@ hash = "6e03394a05767d44c011a148cbd8f5879ef8551a17367fb516e9a6a80390178b"
 metafile = true
 
 [[files]]
-file = "mods/chatanimation.pw.toml"
-hash = "235adb27d04c867e11cc5933af711f2f139553890f7c5f27fb63ac3907ca3f35"
+file = "mods/chat-impressive-animation.pw.toml"
+hash = "6adf7243649549a50fea94b00a0327bd1d04b8bd"
 metafile = true
 
 [[files]]
