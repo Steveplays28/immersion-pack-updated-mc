@@ -1849,6 +1849,10 @@ file = "resources/datapack/required/venture_world_generation_world_traits/pack.m
 hash = "09c50a0e18cfd3b4c6d1550c328fbf05746cd05f42b5bdbeed7db2aefdbf1f92"
 
 [[files]]
+file = "resources/datapack/required/venture_world_generation_world_type/data/minecraft/tags/worldgen/world_preset/normal.json"
+hash = "6c24de9d3ec9351219959b880744f5d961c9a6d1c7ed6c08d6b55269c95716d5"
+
+[[files]]
 file = "resources/datapack/required/venture_world_generation_world_type/data/venture/bigglobe_script_files/spawn_point/continents.gs"
 hash = "49628009a4b6e1f4b66b9f3b6842423d60085f9ec94467f3ccbbf28862d78f7a"
 
