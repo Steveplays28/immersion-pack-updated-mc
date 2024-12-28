@@ -5,6 +5,10 @@ file = "config/bigglobe/Big Globe.json5"
 hash = "83bdfb194c536b4dfaccbab1d997aa69b536de6b203c6976c8b16b63df6072fd"
 
 [[files]]
+file = "config/bigglobe/mixins.properties"
+hash = "210c0c381b3284cf71f4840aecc054cf304a7e09f34c445fcd9a62c64f4a4aef"
+
+[[files]]
 file = "config/blur.json"
 hash = "782efc2fd3ff909c4f17b6f4b82ac83d8f9e764b599e4a953fe3a65a4d496f53"
 
