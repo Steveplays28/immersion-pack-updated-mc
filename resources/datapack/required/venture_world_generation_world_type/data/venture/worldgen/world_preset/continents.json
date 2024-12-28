@@ -17,7 +17,17 @@
         "world_traits": "venture:continents",
         "layer": {
           "state": "'minecraft:air'",
-          "children": []
+          "children": [
+            {
+              "type": "simple_2d",
+              "state": "'minecraft:stone'",
+              "valid": {
+                "max_y": "`bigglobe:overworld/sea_level`",
+                "min_y": "-1024"
+              },
+              "children": []
+            }
+          ]
         },
         "feature_dispatcher": {
           "rock_replacers": [
