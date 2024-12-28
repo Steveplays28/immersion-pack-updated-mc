@@ -48,6 +48,30 @@
         "overriders": "#venture:continents",
         "spawn_point": {
           "file": "venture:spawn_point/continents"
+        },
+        "colors": {
+          "grass": {
+            "template": "venture:block_color_adjustment",
+            "inputs": {
+              "COLOR": [
+                "getDefaultGrassColor(",
+                "`venture:continents/temperature`,",
+                "0.0L",
+                ")"
+              ]
+            }
+          },
+          "foliage": {
+            "template": "venture:block_color_adjustment",
+            "inputs": {
+              "COLOR": [
+                "getDefaultGrassColor(",
+                "`venture:continents/temperature`,",
+                "0.0L",
+                ")"
+              ]
+            }
+          }
         }
       }
     }

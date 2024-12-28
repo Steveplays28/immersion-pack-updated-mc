@@ -1861,8 +1861,12 @@ file = "resources/datapack/required/venture_world_generation_world_type/data/ven
 hash = "49628009a4b6e1f4b66b9f3b6842423d60085f9ec94467f3ccbbf28862d78f7a"
 
 [[files]]
+file = "resources/datapack/required/venture_world_generation_world_type/data/venture/bigglobe_script_templates/block_color_adjustment.json"
+hash = "955401023faf2cc7d38de7e797a643531e7a95cd3f9afe506da95828d37e7afb"
+
+[[files]]
 file = "resources/datapack/required/venture_world_generation_world_type/data/venture/worldgen/world_preset/continents.json"
-hash = "2767028639a7d52e2ef2d238b33f3f97f748894bde2824eb65f4bf5896c3b22a"
+hash = "9cbd444db54966098ffbe682ea32b37bb636c4f531754685d1bc9f727ebf6110"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_world_type/pack.mcmeta"
