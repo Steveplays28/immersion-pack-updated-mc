@@ -4,5 +4,5 @@
     "type": "double",
     "is_3d": false
   },
-  "script": "sin(x * (pi / world_traits.`venture:continent_size`)) * 100 - 50"
+  "script": "sin(x * (pi / world_traits.`venture:continent_size`)) * 100 - 50 + (`venture:continents/temperature_noise` * 10)"
 }

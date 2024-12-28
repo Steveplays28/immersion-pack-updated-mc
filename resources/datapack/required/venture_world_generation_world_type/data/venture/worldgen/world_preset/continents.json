@@ -54,10 +54,7 @@
             "template": "venture:block_color_adjustment",
             "inputs": {
               "COLOR": [
-                "getDefaultGrassColor(",
-                "`venture:continents/temperature`,",
-                "0.0L",
-                ")"
+                "packD((`venture:continents/temperature` + 50) / 100, 0, `venture:continents/moisture`)"
               ]
             }
           },
@@ -65,10 +62,7 @@
             "template": "venture:block_color_adjustment",
             "inputs": {
               "COLOR": [
-                "getDefaultGrassColor(",
-                "`venture:continents/temperature`,",
-                "0.0L",
-                ")"
+                "packD((`venture:continents/temperature` + 50) / 100, 0, `venture:continents/moisture`)"
               ]
             }
           }

@@ -1829,8 +1829,20 @@ file = "resources/datapack/required/venture_world_generation_feature_dispatchers
 hash = "bc251a52d7641edee31e08c52d91b0cfc60b6ef493530d7db33e2b75dd8cfb3e"
 
 [[files]]
+file = "resources/datapack/required/venture_world_generation_moisture/data/venture/worldgen/bigglobe_column_value/continents/moisture.json"
+hash = "d1f9023cdaece72df54cc15585878755c53487ee531d9414451e29a79a069d3f"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_moisture/data/venture/worldgen/bigglobe_column_value/continents/moisture_noise.json"
+hash = "009b1a4cf250ada0dce5159416fc914f0570e6616345134a115fbb10a5d19345"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_moisture/pack.mcmeta"
+hash = "d098f425102c5d7e99922c203f9bbc2a4fa59c0dd3206a97c22c68a35f4c51c9"
+
+[[files]]
 file = "resources/datapack/required/venture_world_generation_temperature/data/venture/worldgen/bigglobe_column_value/continents/temperature.json"
-hash = "09cfbdb5f865d20c9347011501307509433da4119d60749a3cc9f2c9ef53599e"
+hash = "9bc310fa6366108da6d61d647795992cdf42e698d2d96133478acd836390c302"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_temperature/data/venture/worldgen/bigglobe_column_value/continents/temperature_noise.json"
@@ -1866,7 +1878,7 @@ hash = "955401023faf2cc7d38de7e797a643531e7a95cd3f9afe506da95828d37e7afb"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_world_type/data/venture/worldgen/world_preset/continents.json"
-hash = "9cbd444db54966098ffbe682ea32b37bb636c4f531754685d1bc9f727ebf6110"
+hash = "30efa0726da47e1068590193fc5c31e857282bc5d10c106f6456c2c547fde9e7"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_world_type/pack.mcmeta"
