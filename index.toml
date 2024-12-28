@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/DistantHorizons-2.3.0-b-dev-1.21.1-fabric-neoforge.jar"
-hash = "edd68969bae9ccb7da995f24412f6a8aeee5454381bbe20031ff52d731b94397"
+hash = "76fda23a5048b263d8dceb7622bf2ef55387930f7ceb47a762b1417ea2a69f64"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -1858,7 +1858,7 @@ hash = "49628009a4b6e1f4b66b9f3b6842423d60085f9ec94467f3ccbbf28862d78f7a"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_world_type/data/venture/worldgen/world_preset/continents.json"
-hash = "4bb69c16f5c88c1cc43fdb160bf087907ac2f125dde3bf30135b321903034388"
+hash = "0674f91d0133ef725afd54a3b9dd48cff11195a21c8cade995d9958fc04873f6"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_world_type/pack.mcmeta"

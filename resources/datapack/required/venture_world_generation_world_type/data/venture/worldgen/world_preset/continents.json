@@ -10,8 +10,8 @@
           "all_possible_biomes": "#venture:continents/all_possible_biomes"
         },
         "height": {
-          "min_y": -2016,
-          "max_y": 2016,
+          "min_y": -1024,
+          "max_y": 1024,
           "sea_level": 0
         },
         "world_traits": "venture:continents",
