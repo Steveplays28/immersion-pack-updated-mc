@@ -1886,7 +1886,7 @@ hash = "7f0d57f063d98ce73a91b5f9cc20ffbbfe046600589ad63a08d5c517dcaed2fd"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/configured_feature/continents/trees/birch.json"
-hash = "cdfc9411b14b8e92470ed424f5d40fc416ea1ead77aa71233cfd888c1ed58ab8"
+hash = "0881e93468ec946a25f896c27ec5211c6793bbe2fbd318fe31d321d2afd31f39"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/configured_feature/continents/trees/oak.json"
@@ -1894,7 +1894,7 @@ hash = "3abadec4df1de7676df9c871afd770b6f41fa87698e6b893c13f1bce49a6376c"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/configured_feature/continents/trees/oak_and_birch.json"
-hash = "bc5cb3c26626c279c216c3928e2d2326ea5b94a43b523aa8d57d832d299aa404"
+hash = "780a62e0a9077c3160e202a25a524b7243a20b9e50043cc004b2e75653d3c68d"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/pack.mcmeta"

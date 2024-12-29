@@ -4,8 +4,10 @@
     "script": [
       "if (random.nextDouble(0.0, 1.0) > 0.5:",
         "return(placeFeature(originX, originY, originZ, 'venture:continents/trees/oak'))",
-      ") else (",
+      ") else if (random.nextDouble(0.0, 1.0) > 0.5:",
         "return(placeFeature(originX, originY, originZ, 'venture:continents/trees/birch'))",
+      ") else (",
+        "return(true)",
       ")"
     ]
   }

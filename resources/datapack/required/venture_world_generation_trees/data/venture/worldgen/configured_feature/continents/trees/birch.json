@@ -2,7 +2,7 @@
   "type": "bigglobe:natural_tree",
   "config": {
     "palette": "minecraft:birch",
-    "height": "random.nextDouble(12.0L, 21.0L)",
+    "height": "random.nextDouble(12.0L, 23.0L)",
     "trunk": {
       "type": "bigglobe:straight",
       "thickness": "minThickness + pow(1.5L, 10.0L * fraction - 16.0L)",
