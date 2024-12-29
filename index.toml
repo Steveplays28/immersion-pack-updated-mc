@@ -1817,6 +1817,14 @@ file = "resources/datapack/required/venture_world_generation_biomes/pack.mcmeta"
 hash = "65a95589e99d1751e2d7e84a59fc35404749b7b003cfcc0b544f9e22d18c65c2"
 
 [[files]]
+file = "resources/datapack/required/venture_world_generation_default_world_types_removal/data/minecraft/tags/worldgen/world_preset/normal.json"
+hash = "03ff0bee098e59e55d6f564f385dbce1e68005f096f049308a35a0ad167bcfd6"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_default_world_types_removal/pack.mcmeta"
+hash = "5d65d69b0fb7df3a15e4b1e97a09e12562840983391294f4879cac3ec8812997"
+
+[[files]]
 file = "resources/datapack/required/venture_world_generation_feature_dispatchers/data/venture/worldgen/bigglobe_feature_dispatchers/continents/normal_root.json"
 hash = "5bc8fb053c6066f78b99049f71bf63ae14a3616cc138aec74446510d23a58291"
 
