@@ -5,6 +5,6 @@
     "min": 0.5,
     "max": 0.51
   },
-  "if_true": "venture:continents/tree/oak",
+  "if_true": "venture:continents/tree/oak_and_birch",
   "if_false": "bigglobe:overworld/foliage_feature/no_feature"
 }
