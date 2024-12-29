@@ -1830,11 +1830,11 @@ hash = "bc251a52d7641edee31e08c52d91b0cfc60b6ef493530d7db33e2b75dd8cfb3e"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_moisture/data/venture/worldgen/bigglobe_column_value/continents/moisture.json"
-hash = "d1f9023cdaece72df54cc15585878755c53487ee531d9414451e29a79a069d3f"
+hash = "a37ff46fa9611666a0239fee40dadc434ea1f49b2475839f46c45cf7d8a48c48"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_moisture/data/venture/worldgen/bigglobe_column_value/continents/moisture_noise.json"
-hash = "009b1a4cf250ada0dce5159416fc914f0570e6616345134a115fbb10a5d19345"
+hash = "461aabab2a893695ba97aabdce3127966a8587da133874de81de2b13975b5d73"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_moisture/pack.mcmeta"

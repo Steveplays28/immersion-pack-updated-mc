@@ -4,5 +4,5 @@
     "type": "double",
     "is_3d": false
   },
-  "script": "(`venture:continents/moisture_noise` + 2) / 4"
+  "script": "(`venture:continents/moisture_noise` + 1) / 2"
 }
