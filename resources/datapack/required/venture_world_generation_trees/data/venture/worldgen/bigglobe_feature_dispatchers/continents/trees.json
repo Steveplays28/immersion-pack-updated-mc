@@ -1,0 +1,17 @@
+{
+	"type": "script",
+	"dispatcher": [
+		"repeat (random.roundInt(fastExp2(`venture:continents/moisture`(minModifiableX | 8, minModifiableZ | 8) * 6.0I)):",
+			"int*(",
+				"rng = random.nextInt()",
+				"x = minModifiableX | (rng & 15)",
+				"z = minModifiableZ | ((rng >>> 4) & 15)",
+			")",
+      "ConfiguredFeature feature = `venture:continents/tree`(x, z)",
+      "if (feature != null:",
+        "int y = 1",
+        "placeFeature(x, y, z, feature)",
+      ")",
+		")"
+	]
+}

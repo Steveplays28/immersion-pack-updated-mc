@@ -1,0 +1,10 @@
+{
+  "condition": {
+    "type": "threshold",
+    "column_value": "venture:continents/moisture",
+    "min": 0.5,
+    "max": 0.51
+  },
+  "if_true": "venture:continents/tree/oak",
+  "if_false": "bigglobe:overworld/foliage_feature/no_feature"
+}
