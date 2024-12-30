@@ -1,7 +1,7 @@
 {
   "type": "bigglobe:natural_tree",
   "config": {
-    "palette": "minecraft:oak",
+    "palette": "venture:continents/oak_skinny",
     "height": "random.nextDouble(12.0L, 21.0L)",
     "trunk": {
       "type": "bigglobe:straight",

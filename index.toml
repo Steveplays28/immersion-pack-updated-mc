@@ -1861,6 +1861,10 @@ file = "resources/datapack/required/venture_world_generation_temperature/pack.mc
 hash = "f2ea2944c4d48e7a54ac9941a5b3f0fa8239c1747007e8fc4ce1cb6d3c6cb97a"
 
 [[files]]
+file = "resources/datapack/required/venture_world_generation_trees/data/venture/bigglobe_wood_palettes/continents/oak_skinny.json"
+hash = "7614f5a8147086a4d376e4d6f0c1b2ec2a3c60a0859c04c2db0f565e590435f2"
+
+[[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/tags/worldgen/bigglobe_feature_dispatchers/continents/feature_dispatchers.json"
 hash = "f9131f3bf8b3d036e6049424395b5fd2d76db1951391277fae526f8c546998e2"
 
@@ -1898,7 +1902,7 @@ hash = "257de5139fde0e876f724f0c88e9d4107f0f5f72a966d4936842f2ac49ce6035"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/configured_feature/continents/trees/oak_skinny.json"
-hash = "8f4c080d95501a69f56ec37a89711d65eda3a34e2d9405f22e115d281a2c6216"
+hash = "3292ced36358f96d75aa2847d17b72befbd10f0cd15bf314d423018f20072bf3"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/pack.mcmeta"
