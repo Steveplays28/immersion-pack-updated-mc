@@ -711,10 +711,6 @@ hash = "26f7c99f3a60f3b8198471b69ff2f63dc89c56926535fe9e9f1c98dc77f318b3"
 metafile = true
 
 [[files]]
-file = "mods/emitrades-fabric-1.3.0+mc1.21.jar"
-hash = "c2a11367eeaf62ecf75f5e1c8e04c74da7c388941aae686aa699c05dbadefd0d"
-
-[[files]]
 file = "mods/enchantment-lore.pw.toml"
 hash = "c54ef11312cda1be427c8ad2f11719c9a6598420e06aecd517768abd2c823736"
 metafile = true
