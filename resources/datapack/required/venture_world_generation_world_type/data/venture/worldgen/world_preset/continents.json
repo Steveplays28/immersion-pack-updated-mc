@@ -45,7 +45,7 @@
           "raw": "venture:continents/raw_root",
           "normal": "venture:continents/normal_root"
         },
-        "overriders": "#venture:continents",
+        "overriders": "#bigglobe:empty",
         "spawn_point": {
           "file": "venture:spawn_point/continents"
         },

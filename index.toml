@@ -1934,7 +1934,7 @@ hash = "cee22a0b9e4e55bbc51481473da4541ea8152fe4d05e011c5c53e84e8d3b0162"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_world_type/data/venture/worldgen/world_preset/continents.json"
-hash = "30efa0726da47e1068590193fc5c31e857282bc5d10c106f6456c2c547fde9e7"
+hash = "cc859cd40016779bfc9dd7539c4f7926b57f17984eb568bb0350820dffae8742"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_world_type/pack.mcmeta"
