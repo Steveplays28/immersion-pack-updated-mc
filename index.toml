@@ -1838,7 +1838,7 @@ hash = "bc251a52d7641edee31e08c52d91b0cfc60b6ef493530d7db33e2b75dd8cfb3e"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_moisture/data/venture/worldgen/bigglobe_column_value/continents/moisture.json"
-hash = "a37ff46fa9611666a0239fee40dadc434ea1f49b2475839f46c45cf7d8a48c48"
+hash = "cb94067d67cb9658c713c06fa87a51f8ee2d90d454d625ceea0438419e634e05"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_moisture/data/venture/worldgen/bigglobe_column_value/continents/moisture_noise.json"
@@ -1882,7 +1882,7 @@ hash = "0763cce5762b964072cb501da8ce454a8cf98f81bf5b7ebef866b2514cefb459"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/bigglobe_decision_tree/continents/tree/test_moisture.json"
-hash = "351a1806ce19a9f299544e7d0ffcdf4e3b489a43a6c6dfb8866894ea13d20f97"
+hash = "91e98b521793dda6cd954ae054f380b455d35896bac6f88a5a1f63cede5b226e"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/bigglobe_feature_dispatchers/continents/trees.json"
