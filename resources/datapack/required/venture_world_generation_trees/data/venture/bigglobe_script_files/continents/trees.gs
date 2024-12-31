@@ -5,6 +5,7 @@ repeat (random.roundInt(fastExp2(`venture:continents/moisture`(minModifiableX | 
         z = minModifiableZ | ((rng >>> 4) & 15)
     )
     ArrayList choices = new()
+    var altitude = `venture:continents/altitude`(x, z)
     var moisture = `venture:continents/moisture`(x, z)
     if (moisture >= 470.25L && moisture < 990.0L:
         choices.add(ConfiguredFeature('venture:continents/trees/oak_skinny'))
@@ -19,7 +20,7 @@ repeat (random.roundInt(fastExp2(`venture:continents/moisture`(minModifiableX | 
 
     ConfiguredFeature feature = choices.get(random.nextInt(choices.size()))
     if (feature != null:
-        int y = 1
-        placeFeature(x, y, z feature)
+        int y = floorInt(altitude)
+        placeFeature(x, y, z, feature)
     )
 )

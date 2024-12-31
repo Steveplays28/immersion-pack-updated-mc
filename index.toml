@@ -1793,6 +1793,14 @@ file = "resources/datapack/required/venture_world_generation/pack.mcmeta"
 hash = "2cd4e34c0a7a38588447f5b2f4e5135904530f15c45733826f7dbcb020958e20"
 
 [[files]]
+file = "resources/datapack/required/venture_world_generation_altitude/data/venture/worldgen/bigglobe_column_value/continents/altitude.json"
+hash = "eca3067c7d7ad648f3f7a695f29d8b990b9d71fc840f31ae8905ae6da7c206a8"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_altitude/pack.mcmeta"
+hash = "3abf214d7bfc05a261555c5e71c11744033d29177d91151b893ef991aa1692c1"
+
+[[files]]
 file = "resources/datapack/required/venture_world_generation_biomes/data/venture/tags/worldgen/biome/continents/all_possible_biomes.json"
 hash = "0461d95a1a562eada048c4c97a8694cd12f70938521e70a5b87e3dda7bbd2f47"
 
@@ -1858,7 +1866,7 @@ hash = "f2ea2944c4d48e7a54ac9941a5b3f0fa8239c1747007e8fc4ce1cb6d3c6cb97a"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/bigglobe_script_files/continents/trees.gs"
-hash = "616af61279be1d860b7742e8e0363e346f001d269af6ad3ad1be2a657226b11f"
+hash = "86a168bd9d1ae4c0a9470d4c5da01e8ded67cedf51c890e0907e73b0e0e71dcb"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/bigglobe_wood_palettes/continents/oak_skinny.json"
