@@ -1857,6 +1857,10 @@ file = "resources/datapack/required/venture_world_generation_temperature/pack.mc
 hash = "f2ea2944c4d48e7a54ac9941a5b3f0fa8239c1747007e8fc4ce1cb6d3c6cb97a"
 
 [[files]]
+file = "resources/datapack/required/venture_world_generation_trees/data/venture/bigglobe_script_files/continents/trees.gs"
+hash = "616af61279be1d860b7742e8e0363e346f001d269af6ad3ad1be2a657226b11f"
+
+[[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/bigglobe_wood_palettes/continents/oak_skinny.json"
 hash = "7614f5a8147086a4d376e4d6f0c1b2ec2a3c60a0859c04c2db0f565e590435f2"
 
@@ -1865,24 +1869,8 @@ file = "resources/datapack/required/venture_world_generation_trees/data/venture/
 hash = "f9131f3bf8b3d036e6049424395b5fd2d76db1951391277fae526f8c546998e2"
 
 [[files]]
-file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/bigglobe_column_value/continents/tree.json"
-hash = "28fed498d6f43bc8b7acad64c9b5ce060f22cef38c7d85fc506d6af69d276456"
-
-[[files]]
-file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/bigglobe_decision_tree/continents/tree/oak.json"
-hash = "5b85d4dc9379787cffcd12ba496f3da988c103919b3ed18834bd8add4b3c4599"
-
-[[files]]
-file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/bigglobe_decision_tree/continents/tree/oak_and_birch.json"
-hash = "0763cce5762b964072cb501da8ce454a8cf98f81bf5b7ebef866b2514cefb459"
-
-[[files]]
-file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/bigglobe_decision_tree/continents/tree/test_moisture.json"
-hash = "91e98b521793dda6cd954ae054f380b455d35896bac6f88a5a1f63cede5b226e"
-
-[[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/bigglobe_feature_dispatchers/continents/trees.json"
-hash = "7f0d57f063d98ce73a91b5f9cc20ffbbfe046600589ad63a08d5c517dcaed2fd"
+hash = "862b24b96feceea28abeed381633410e59c60f99d9a0afd6d94d3f09d19276c5"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/configured_feature/continents/trees/birch.json"
@@ -1891,10 +1879,6 @@ hash = "0881e93468ec946a25f896c27ec5211c6793bbe2fbd318fe31d321d2afd31f39"
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/configured_feature/continents/trees/oak.json"
 hash = "3abadec4df1de7676df9c871afd770b6f41fa87698e6b893c13f1bce49a6376c"
-
-[[files]]
-file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/configured_feature/continents/trees/oak_and_birch.json"
-hash = "257de5139fde0e876f724f0c88e9d4107f0f5f72a966d4936842f2ac49ce6035"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/configured_feature/continents/trees/oak_skinny.json"
