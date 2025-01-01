@@ -17,6 +17,9 @@ repeat (random.roundInt(fastExp2(`venture:continents/moisture`(minModifiableX | 
     if (temperature >= -1.0L && temperature < 15.0L && moisture >= 300.0L && moisture < 900.0L:
         choices.add(ConfiguredFeature('venture:continents/trees/white_spruce'))
     )
+    if (temperature >= 7.0L && temperature < 31.0L && moisture >= 25.0L && moisture < 374.0L:
+        choices.add(ConfiguredFeature('venture:continents/trees/saguaro_cactus'))
+    )
 
     if (choices.isEmpty():
         continue()

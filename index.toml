@@ -1866,7 +1866,11 @@ hash = "f2ea2944c4d48e7a54ac9941a5b3f0fa8239c1747007e8fc4ce1cb6d3c6cb97a"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/bigglobe_script_files/continents/trees.gs"
-hash = "13112b2ff5951408bf9efe9c7e61005110908cdc82448ae40c21ea716a118e9f"
+hash = "2dcdb0e8a5fa0d7a30c7d758ba9771402703ed04c17ffe1d32b94321d6234b77"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_trees/data/venture/bigglobe_script_files/continents/trees/saguaro_cactus.gs"
+hash = "8bc11adba2bac36a64198d22272ab7a278ffa0b8da4e2a68ce28ad3243d59ccc"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/bigglobe_script_files/continents/trees/white_spruce.gs"
@@ -1899,6 +1903,10 @@ hash = "3abadec4df1de7676df9c871afd770b6f41fa87698e6b893c13f1bce49a6376c"
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/configured_feature/continents/trees/oak_skinny.json"
 hash = "02937dcddf0cf9f29792c5c1b899eddd3c1fd512bd97ef8491709519b976cb20"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/configured_feature/continents/trees/saguaro_cactus.json"
+hash = "29dad5fd98b6c132c3ab12bddd14ce1fcf70e6e9a625515f903a67c526465e9e"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/configured_feature/continents/trees/white_spruce.json"
