@@ -6,14 +6,15 @@ repeat (random.roundInt(fastExp2(`venture:continents/moisture`(minModifiableX | 
     )
     ArrayList choices = new()
     var altitude = `venture:continents/altitude`(x, z)
+    var temperature = `venture:continents/temperature`(x, z)
     var moisture = `venture:continents/moisture`(x, z)
-    if (moisture >= 470.25L && moisture < 990.0L:
+    if (temperature >= 4.0L && temperature < 26.0L && moisture >= 470.25L && moisture < 990.0L:
         choices.add(ConfiguredFeature('venture:continents/trees/oak_skinny'))
     )
-    if (moisture >= 470.25L && moisture < 915.75L:
+    if (temperature >= 6.0L && temperature < 22.0L && moisture >= 470.25L && moisture < 915.75L:
         choices.add(ConfiguredFeature('venture:continents/trees/birch'))
     )
-    if (moisture >= 300.0L && moisture < 900.0L:
+    if (temperature >= -1.0L && temperature < 15.0L && moisture >= 300.0L && moisture < 900.0L:
         choices.add(ConfiguredFeature('venture:continents/trees/white_spruce'))
     )
 
