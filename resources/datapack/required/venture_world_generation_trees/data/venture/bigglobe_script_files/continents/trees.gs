@@ -13,6 +13,9 @@ repeat (random.roundInt(fastExp2(`venture:continents/moisture`(minModifiableX | 
     if (moisture >= 470.25L && moisture < 915.75L:
         choices.add(ConfiguredFeature('venture:continents/trees/birch'))
     )
+    if (moisture >= 300.0L && moisture < 900.0L:
+        choices.add(ConfiguredFeature('venture:continents/trees/white_spruce'))
+    )
 
     if (choices.isEmpty():
         continue()

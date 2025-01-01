@@ -1866,11 +1866,19 @@ hash = "f2ea2944c4d48e7a54ac9941a5b3f0fa8239c1747007e8fc4ce1cb6d3c6cb97a"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/bigglobe_script_files/continents/trees.gs"
-hash = "86a168bd9d1ae4c0a9470d4c5da01e8ded67cedf51c890e0907e73b0e0e71dcb"
+hash = "da5dd4153e88e962c02ececb29b954a1f917b877fea92a759f9f7348f777dbd5"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_trees/data/venture/bigglobe_script_files/continents/trees/white_spruce.gs"
+hash = "b227abf3b629de56040c659dfd8c1652fc28b7ec70700cab089deecf4f86d1d9"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/bigglobe_wood_palettes/continents/oak_skinny.json"
 hash = "7614f5a8147086a4d376e4d6f0c1b2ec2a3c60a0859c04c2db0f565e590435f2"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_trees/data/venture/bigglobe_wood_palettes/continents/white_spruce.json"
+hash = "3308a7732d2a41998703b5bf9520b11d98e6cb987f0c3311d0f737b933f2c313"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/tags/worldgen/bigglobe_feature_dispatchers/continents/feature_dispatchers.json"
@@ -1891,6 +1899,10 @@ hash = "3abadec4df1de7676df9c871afd770b6f41fa87698e6b893c13f1bce49a6376c"
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/configured_feature/continents/trees/oak_skinny.json"
 hash = "02937dcddf0cf9f29792c5c1b899eddd3c1fd512bd97ef8491709519b976cb20"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_trees/data/venture/worldgen/configured_feature/continents/trees/white_spruce.json"
+hash = "f20769617226807bdbab7c0c888f92753e981dd22ac27be2e5d8bca7606d2061"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/pack.mcmeta"
