@@ -9,16 +9,8 @@ file = "config/bigglobe/mixins.properties"
 hash = "210c0c381b3284cf71f4840aecc054cf304a7e09f34c445fcd9a62c64f4a4aef"
 
 [[files]]
-file = "config/blur.json"
-hash = "782efc2fd3ff909c4f17b6f4b82ac83d8f9e764b599e4a953fe3a65a4d496f53"
-
-[[files]]
 file = "config/butter.json"
 hash = "0214533073793426aec6d1a5da71bcfa979b46608156fe95e4157b5decb47d13"
-
-[[files]]
-file = "config/byg/client/biomepedia_inventory.json5"
-hash = "1facd9ce5d4b92836f5d07a90314fd4bea90feea10b9e964832b127838c0aa33"
 
 [[files]]
 file = "config/c2me.toml"
@@ -133,20 +125,8 @@ file = "config/flow.config.json"
 hash = "bcd10f2ef1582ad1a9264d247d5c68283b09ddb9ec64d8eac528596cb6a84fb6"
 
 [[files]]
-file = "config/footprintparticle.json"
-hash = "ff905d595b6af825d51798ff2d5c8e1106efd08aec960d15b1105f2fe07f3046"
-
-[[files]]
 file = "config/forgero_settings.json"
 hash = "fdebe5f8fd3e03bbab7096058dcfdb8d6f71d5107e6b4074cec76ef28fda7318"
-
-[[files]]
-file = "config/immersive_weathering-common.json"
-hash = "d2737f2ffcd5f05d9141cad8adad702ed70cf828dedf0c72c5f4b3ef44598573"
-
-[[files]]
-file = "config/inventory_tabs.json"
-hash = "105dee24824ea3bef94d5ccf1a8bbee5d1d5b31f1dc38a2a061528c8f7c2b252"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -211,14 +191,6 @@ hash = "c31ee9add1843130158d177a5bfaa384ac848e14a42a9a56efc0ea9d3dfd47a6"
 [[files]]
 file = "config/snowrealmagic-common.toml"
 hash = "4131f26d96174ebed475ce47bbec2a233acf698486416175dc75b54792a3f612"
-
-[[files]]
-file = "config/terrablender.toml"
-hash = "ca4fbc9c7291e79839bd549f77d8c388e9a5d3eaade8d97958613647f5e98577"
-
-[[files]]
-file = "config/vsas_config.txt"
-hash = "126c83107c0d66aeb88285920f147d94685fa8f912b7dea427a5c15a72d96a0c"
 
 [[files]]
 file = "config/waila/blacklist.json"
