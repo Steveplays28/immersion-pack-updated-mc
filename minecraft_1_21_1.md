@@ -3,16 +3,15 @@
 ## Todo
 
 - [ ] [Async Locator](https://github.com/ryleu/armor-nerf/issues/2)
-- [ ] Armor Nerf
-- [ ] [AttributeFix](https://github.com/Darkhax-Minecraft/AttributeFix/issues/56)
+- [ ] Armor Nerf (mutually exclusive with AttributeFix)
+- [ ] [AttributeFix](https://github.com/Darkhax-Minecraft/AttributeFix/issues/56) (mutually exclusive with Armor Nerf)
 - [ ] Beacons For All
 - [ ] [Bedrodium](https://github.com/Kirilliriks/Bedrodium/issues/16)
 - [ ] [Better Eating](https://github.com/qtquwu/Better-Eating-Mod/issues/17)
 - [ ] [Better Log4J Config](https://github.com/BigWingBeat/better_log4j_config/pull/6)
 - [ ] [Better Stuck Arrows](https://github.com/mrsterner/BetterStuckArrows/issues/3)
-- [ ] Birds | Boids Addon
+- [x] Birds | Boids Addon
 - [ ] BlinkLoad
-- [ ] Blopedit
 - [ ] Blossom
 - [ ] CC:C Bridge
 - [ ] Chests Are Chests
@@ -23,18 +22,14 @@
 - [ ] Create
 - [ ] Create Jetpack
 - [ ] Create Steam 'n Rails
-- [ ] Dawn API
 - [ ] Diet
 - [ ] Distracting Trims
 - [ ] [Dynamic Crosshair Compat](https://github.com/Crendgrim/DynamicCrosshairCompat/issues/42)
-- [ ] [Easy Shulker Boxes](https://github.com/Fuzss/easyshulkerboxes/issues/59)
 - [ ] Ecotones
 - [ ] Expanded Tooltips
 - [ ] Exposure
 - [ ] EMI Addon: Extra Mod Integrations
 - [ ] F3 Everywhere
-- [ ] F3Scale
-- [ ] Fabric Enchantments
 - [ ] Forgero
 - [ ] [Forgotten Graves](https://github.com/ginsm/forgotten-graves/issues/93)
 - [ ] [Immersive Aircraft](https://github.com/Luke100000/ImmersiveAircraft/issues/193)
@@ -49,21 +44,12 @@
 - [ ] [Mobtimizations](https://github.com/Corosauce/mobtimizations/issues/3)
 - [ ] Naturalist
 - [ ] Path Under Fence Gates
-- [ ] [Replay FPS](https://github.com/Igrium/ReplayFPS/issues/9)
-- [ ] Respawning Animals
 - [ ] Scarves
-- [ ] Sidekick
-- [ ] [Smooth Particles](https://github.com/watermelone1/Smooth-Particles/issues/6)
 - [ ] Snowy Spirit
 - [ ] Stylish Effects
-- [ ] [The Lost Castle](https://github.com/Team-Remastered/The-Lost-Castle-Forge/issues/8)
 - [ ] Transparent Tooltips
-- [ ] Truly Treasures
 - [ ] [Twigs](https://github.com/N1nn1/twigs/pull/21)
 - [ ] Universal Ores
-- [ ] Universal Enchants
-- [ ] Unruled API
-- [ ] [VillagersPlus](https://github.com/finallion/VillagersPlus/issues/33)
 - [ ] [Why Am I On Fire?](https://github.com/Ellivers/Why-Am-I-on-Fire/pull/12)
 - [ ] Diagonal Fences
 - [ ] Diagonal Windows
