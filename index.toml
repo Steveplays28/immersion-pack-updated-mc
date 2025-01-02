@@ -22,7 +22,7 @@ hash = "b9f7e444e92a9f4e67d01741f5853271744e278d6996a100f8f590c6fa3c90aa"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "dbf4ec0f8be01bde0d1014e722c4a06af9c14749eb81abb3031d82aa286b41a0"
+hash = "456a473949867a77ac33959f29535aa5cc3d4ca0d8f1c68cb52c227b5999a5af"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -379,6 +379,11 @@ hash = "33e38f64db34f3f50d5679d78f4b7085dc498aab31574f7bb8ffc4053537b0ec"
 metafile = true
 
 [[files]]
+file = "mods/arrow-entity-loot-drop.pw.toml"
+hash = "ad817821ba790e8d67a9d221562bf5a35f67080806b535e795857524329423af"
+metafile = true
+
+[[files]]
 file = "mods/async.pw.toml"
 hash = "a76c98226374e54e78a5b1ec4b45f9fecc60a771701e08e6f0ed28ad2f31038a"
 metafile = true
@@ -695,6 +700,11 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "3fd3ff18b39c291980d982f4d3e01751ed7a33648cd0c36bc00d07314bc351c6"
+metafile = true
+
+[[files]]
+file = "mods/entity-pin-cushions.pw.toml"
+hash = "0ab0ba03df73a3af0fe9d0f7dc7d552095f6ae15ff6bb5cb21a97fef4fb3859f"
 metafile = true
 
 [[files]]
