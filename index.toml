@@ -347,6 +347,11 @@ file = "mods/DistantHorizons-2.3.0-b-dev-1.21.1-fabric-neoforge.jar"
 hash = "76fda23a5048b263d8dceb7622bf2ef55387930f7ceb47a762b1417ea2a69f64"
 
 [[files]]
+file = "mods/accurate-block-placement-reborn.pw.toml"
+hash = "dc742643085aff9ea4d812876844397ff1f5e5b21f4c7b72897d675f10a92276"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "6311b49846428a26411672321113badcab0b5afd0469e9aba33b901442a76329"
 metafile = true
@@ -1193,6 +1198,11 @@ metafile = true
 [[files]]
 file = "mods/random-mob-sizes.pw.toml"
 hash = "f8dbcf87083241b41a765373ebb923e3fa122b826cf1fe15ed08bd84793d4240"
+metafile = true
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+hash = "3c099eb0548ff8dae8911b3c3754325d4b5271e536938557ca7e726e34db3dc1"
 metafile = true
 
 [[files]]
