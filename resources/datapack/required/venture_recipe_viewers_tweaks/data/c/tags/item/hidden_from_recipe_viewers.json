@@ -31,16 +31,10 @@
 		"minecraft:netherite_axe",
 		"minecraft:netherite_shovel",
 		"minecraft:netherite_hoe",
-		"byg:pendorite_sword",
-		"byg:pendorite_pickaxe",
-		"byg:pendorite_axe",
-		"byg:pendorite_shovel",
-		"byg:pendorite_hoe",
 		"techreborn:bronze_pickaxe",
 		"techreborn:ruby_pickaxe",
 		"techreborn:sapphire_pickaxe",
 		"techreborn:peridot_pickaxe",
-		"techreborn:copper_nugget",
-		"consistency_plus:copper_nugget"
+		"techreborn:copper_nugget"
 	]
 }

@@ -1540,7 +1540,7 @@ hash = "438056d091d6e7f4058c1553a42a81e2454ca47cf544e063e79b9128ae08bd0f"
 
 [[files]]
 file = "resources/datapack/required/venture_recipe_viewers_tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "e838bb65279c23b03220dc1cf9c565e1e45b693cdc0f110aa59ac700c3017be5"
+hash = "784b8ed8028cec23b927bad1055d6e35576cbe6fc7bb083b2d212c746040ab1a"
 
 [[files]]
 file = "resources/datapack/required/venture_recipe_viewers_tweaks/pack.mcmeta"
