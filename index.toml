@@ -696,11 +696,6 @@ hash = "376620dfe6cd578c65ac9094262c4863d187b459087fd7a46fb0f777193c2f8d"
 metafile = true
 
 [[files]]
-file = "mods/elytra-trims.pw.toml"
-hash = "9da0ad12f1ca1fb25410cb68e7c8342294de7632c46ecc8b81071ad7624b9a77"
-metafile = true
-
-[[files]]
 file = "mods/elytrabugfix.pw.toml"
 hash = "29b267f0e930ed899b7078aec9ad5a82f2739c72e356276860848caa6f4a09e6"
 metafile = true
