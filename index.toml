@@ -936,6 +936,11 @@ hash = "d02567d9ab66665c37225806b007007bc2b40568caae005942dced81fb1e0f04"
 metafile = true
 
 [[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "87be8e26d473c816c00985a950e716f6851328bcef97b23d98cf417005143c89"
+metafile = true
+
+[[files]]
 file = "mods/keep-my-soil-tilled.pw.toml"
 hash = "f8a219e445e7a3d0e5f201b51231e9f5e24600f56dc8a2e10dc236546007cc94"
 metafile = true
