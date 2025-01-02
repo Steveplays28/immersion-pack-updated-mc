@@ -1,7 +1,0 @@
-{
-	"block.minecraft.oak_log.expanded_tooltips.desc": "The log of an oak tree, commonly found in forests.\nUsed extensively in crafting.",
-	"block.minecraft.acacia_log.expanded_tooltips.desc": "The log of an acacia tree, commonly found in forests.\nUsed extensively in crafting.",
-	"item.minecraft.emerald.expanded_tooltips.desc": "A gemstone that is a variety of the mineral Beryl, colored green by trace amounts of chromium and occasionally vanadium.\nPoor resistance to breakage.",
-	"item.minecraft.raw_iron.expanded_tooltips.desc": "A metallic chemical element that is both common and sturdy. Smelts at 1500 °C.\nFe. Atomic number 26 on the Periodic Table.",
-	"item.minecraft.raw_copper.expanded_tooltips.desc": "A chemical element that is soft, malleable, and ductile. Has very high electrical and thermal conductivity. Smelts at 1084 °C.\nCu. Atomic number 29 on the Periodic Table."
-}

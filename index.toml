@@ -1963,32 +1963,20 @@ file = "resources/datapack/required/venture_world_generation_world_type/pack.mcm
 hash = "44bc8832bf33c4d8073a25b5f40868b2c51cbc9930a57e6dfa74e384037ab4d6"
 
 [[files]]
-file = "resources/resourcepack/required/immersium/assets/expanded_tooltips/lang/en_us.json"
-hash = "025bf18fa78048c566965baf3aa9ddad2342391a87b403e06926492e3dccffaa"
-
-[[files]]
-file = "resources/resourcepack/required/immersium/assets/immersium/lang/en_us.json"
-hash = "62fbbf4e2657b6a016be4e749145ffdc1809d2b77bf312f765306d54ab2cca64"
-
-[[files]]
-file = "resources/resourcepack/required/immersium/assets/minecraft/sounds.json"
-hash = "78ec0e36a5e09415e1c4dbec518bd0b5eb13b34784d7d57a3fc865e3350c73d5"
-
-[[files]]
-file = "resources/resourcepack/required/immersium/assets/minecraft/sounds/music/game/immersium_ost_3.ogg"
-hash = "d4a2a652305b53010e3fe6bb88bfef89f5c5a3ec0c10ae3782d9ca160357e244"
-
-[[files]]
-file = "resources/resourcepack/required/immersium/pack.mcmeta"
-hash = "d758c0614f1a96074464284f160bd0000139aff63e0fd56cf89d28cf2a1fd87f"
-
-[[files]]
-file = "resources/resourcepack/required/immersium_advancements/assets/immersium/lang/en_us.json"
+file = "resources/resourcepack/required/venture_advancements/assets/venture/lang/en_us.json"
 hash = "53afe5bca170bc1f77e397df76aacc7b2d7a36a2dfcbd5b1f0ad40b4c707978b"
 
 [[files]]
-file = "resources/resourcepack/required/immersium_advancements/pack.mcmeta"
+file = "resources/resourcepack/required/venture_advancements/pack.mcmeta"
 hash = "5b57957432596905dcd8e5f714aa2f9619382649f5fd7eac840715e62089782c"
+
+[[files]]
+file = "resources/resourcepack/required/venture_language/assets/venture/lang/en_us.json"
+hash = "62fbbf4e2657b6a016be4e749145ffdc1809d2b77bf312f765306d54ab2cca64"
+
+[[files]]
+file = "resources/resourcepack/required/venture_language/pack.mcmeta"
+hash = "d758c0614f1a96074464284f160bd0000139aff63e0fd56cf89d28cf2a1fd87f"
 
 [[files]]
 file = "shaderpacks/Bliss-main.zip.txt"
