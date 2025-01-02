@@ -791,6 +791,11 @@ hash = "bf60fa9dd0d51dedbc5c4889c060f39867674e27db12f170e93c0b58e50de624"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "19421656bc9cd34964f14b4e2bacf88dbd4960871df6038407e7d511cb7b8e1a"
+metafile = true
+
+[[files]]
 file = "mods/faster-random.pw.toml"
 hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
 metafile = true
@@ -1387,11 +1392,6 @@ metafile = true
 [[files]]
 file = "mods/terrestria.pw.toml"
 hash = "5afa49c5ff2f2ce6ab70c5d29e493e8314758e12fea07e1ec08e4ec0bd8b5187"
-metafile = true
-
-[[files]]
-file = "mods/textile_backup.pw.toml"
-hash = "aae8edc33d468ede69bee297acd2cfc8faee0f88157bf9bbccdbdbf80c231c01"
 metafile = true
 
 [[files]]
