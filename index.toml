@@ -1531,6 +1531,18 @@ file = "resources/datapack/required/venture_advancements/pack.mcmeta"
 hash = "5b57957432596905dcd8e5f714aa2f9619382649f5fd7eac840715e62089782c"
 
 [[files]]
+file = "resources/datapack/required/venture_end_items_removal/data/c/tags/item/hidden_from_recipe_viewers.json"
+hash = "a642812e657dfc8de63bdbb391957e91cb6e6bcce8c5a5bc9720821ab440c719"
+
+[[files]]
+file = "resources/datapack/required/venture_end_items_removal/data/techreborn/recipe/dragon_egg_syphon.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "resources/datapack/required/venture_end_items_removal/pack.mcmeta"
+hash = "35083157334b4f04d5ece97a9c554b9cdf419b7c1fc1917265f4b20fa660ae49"
+
+[[files]]
 file = "resources/datapack/required/venture_grass_overhaul_tweaks/data/minecraft/tags/block/slabs.json"
 hash = "901fbe19128eeb917dbe8e974ee8af63dabda60641673f7720f9a154c259eb53"
 
@@ -1539,12 +1551,12 @@ file = "resources/datapack/required/venture_grass_overhaul_tweaks/pack.mcmeta"
 hash = "438056d091d6e7f4058c1553a42a81e2454ca47cf544e063e79b9128ae08bd0f"
 
 [[files]]
-file = "resources/datapack/required/venture_recipe_viewers_tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
+file = "resources/datapack/required/venture_non_forgero_tool_recipe_removal/data/c/tags/item/hidden_from_recipe_viewers.json"
 hash = "784b8ed8028cec23b927bad1055d6e35576cbe6fc7bb083b2d212c746040ab1a"
 
 [[files]]
-file = "resources/datapack/required/venture_recipe_viewers_tweaks/pack.mcmeta"
-hash = "a1db4d6cee9209970a50b1620460671e0681a067f8b8f050adb9289cc53a2144"
+file = "resources/datapack/required/venture_non_forgero_tool_recipe_removal/pack.mcmeta"
+hash = "bef617b0db2e8f3bd3dfcd984246221f27e5515dd7b490abafee84fce17b572f"
 
 [[files]]
 file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/abandoned_city.json"
