@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/DistantHorizons-2.3.0-b-dev-1.21.1-fabric-neoforge.jar"
-hash = "76fda23a5048b263d8dceb7622bf2ef55387930f7ceb47a762b1417ea2a69f64"
+hash = "db274da13e1bda5d0d34eca515b81a21fc6390b2046b71938c8ef6ee6f23325a"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
