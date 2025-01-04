@@ -54,7 +54,7 @@
             "template": "venture:block_color_adjustment",
             "inputs": {
               "COLOR": [
-                "packD((`venture:continents/temperature` + 50) / 100, 0, `venture:continents/moisture`)"
+                "packD((`venture:continents/temperature` + 50) / 100, 0, `venture:continents/moisture` / 2475.0L)"
               ]
             }
           },
@@ -62,7 +62,7 @@
             "template": "venture:block_color_adjustment",
             "inputs": {
               "COLOR": [
-                "packD((`venture:continents/temperature` + 50) / 100, 0, `venture:continents/moisture`)"
+                "packD((`venture:continents/temperature` + 50) / 100, 0, `venture:continents/moisture` / 2475.0L)"
               ]
             }
           }
