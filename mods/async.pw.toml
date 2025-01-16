@@ -1,13 +1,13 @@
 name = "Async"
-filename = "async-0.1.5+alpha.7-1.21.1.jar"
+filename = "async-0.1.6+alpha.3-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vEC2jm6I/versions/he56i20I/async-0.1.5%2Balpha.7-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/vEC2jm6I/versions/gU6M1qV3/async-0.1.6%2Balpha.3-1.21.1.jar"
 hash-format = "sha1"
-hash = "e30177609944e9ca2d94fb0c9ffe7463af6275fa"
+hash = "d2432e7c6cd834e7ed0de8200ff05da3f6e7564b"
 
 [update]
 [update.modrinth]
 mod-id = "vEC2jm6I"
-version = "he56i20I"
+version = "gU6M1qV3"

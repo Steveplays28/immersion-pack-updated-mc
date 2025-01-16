@@ -1,13 +1,13 @@
 name = "Simple Close Button"
-filename = "close-btn-3.0.jar"
+filename = "simple-close-button-3.2+1.21.1-hotfix.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NPYAMkNO/versions/H15Glv6D/close-btn-3.0.jar"
+url = "https://cdn.modrinth.com/data/NPYAMkNO/versions/DMu2nmQd/simple-close-button-3.2%2B1.21.1-hotfix.jar"
 hash-format = "sha1"
-hash = "593f4e730773d489661da91d68519609182f2827"
+hash = "525a154abe4ed4255f564ce0d0dccb8ed7909d20"
 
 [update]
 [update.modrinth]
 mod-id = "NPYAMkNO"
-version = "H15Glv6D"
+version = "DMu2nmQd"

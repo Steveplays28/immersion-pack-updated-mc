@@ -6,11 +6,6 @@
         "minecraft": "*"
       }
     },
-    "cavedust": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
     "statuemenus": {
       "-depends": {
         "minecraft": "*"
