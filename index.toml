@@ -1562,7 +1562,11 @@ hash = "bef617b0db2e8f3bd3dfcd984246221f27e5515dd7b490abafee84fce17b572f"
 
 [[files]]
 file = "resources/datapack/required/venture_pillager_items_removal/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "383185d7ddf9200e919101bd393688abd83dc896ebb1461c29c1d81d898c0f7e"
+hash = "13154ddfa85d5a4703e809423da420bdee7ab10427c802e6ea4f82dd1fd88d0a"
+
+[[files]]
+file = "resources/datapack/required/venture_pillager_items_removal/data/minecraft/recipe/vex_armor_trim_smithing_template.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
 file = "resources/datapack/required/venture_pillager_items_removal/pack.mcmeta"

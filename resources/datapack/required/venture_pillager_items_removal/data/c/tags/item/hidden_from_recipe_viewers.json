@@ -5,7 +5,10 @@
     "minecraft:evoker_spawn_egg",
     "minecraft:vindicator_spawn_egg",
     "minecraft:ravager_spawn_egg",
+    "minecraft:vex_spawn_egg",
+    "minecraft:allay_spawn_egg",
     "minecraft:ominous_bottle",
-    "minecraft:totem_of_undying"
+    "minecraft:totem_of_undying",
+    "minecraft:vex_armor_trim_smithing_template"
   ]
 }
