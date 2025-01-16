@@ -1513,6 +1513,18 @@ file = "resources/datapack/required/venture_advancements/pack.mcmeta"
 hash = "5b57957432596905dcd8e5f714aa2f9619382649f5fd7eac840715e62089782c"
 
 [[files]]
+file = "resources/datapack/required/venture_enchanting_items_removal/data/c/tags/item/hidden_from_recipe_viewers.json"
+hash = "c5093641b07b7d4dae4b86998be71784cf0e25f281a13152b161fd5b1852817b"
+
+[[files]]
+file = "resources/datapack/required/venture_enchanting_items_removal/data/minecraft/recipe/enchanting_table.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "resources/datapack/required/venture_enchanting_items_removal/pack.mcmeta"
+hash = "61dc20cd71a00662bcec43c11bc7d8229327f4af065e0ad776afc781188a3f76"
+
+[[files]]
 file = "resources/datapack/required/venture_end_items_removal/data/c/tags/item/hidden_from_recipe_viewers.json"
 hash = "3857685214423c3fd0f86d913dedd38997264e8d8de419bf6e27a5e35a3ab4cb"
 
