@@ -1,4 +1,12 @@
 {
+	"repeaterUseSoundEffect": {
+		"pitch": 0.95,
+		"volume": 0.3,
+		"enabledDynamic": true,
+		"id": "repeaterUse",
+		"soundEvent": "minecraft:block.stone_button.click_on",
+		"shouldPlay": true
+	},
 	"jukeboxUseSoundEffect": {
 		"shouldPlay": true,
 		"pitch": 0.8,
@@ -20,7 +28,6 @@
 		"id": "furnaceMinecartFuel",
 		"soundEvent": "minecraft:entity.creeper.hurt"
 	},
-	"enableDynamicEatingSounds": true,
 	"frostWalkerSoundEffect": {
 		"shouldPlay": true,
 		"pitch": 2.0,
@@ -48,5 +55,14 @@
 		"volume": 0.4,
 		"id": "plantPotFill",
 		"soundEvent": "minecraft:block.grass.place"
-	}
+	},
+	"cakeEatSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 1.2,
+		"volume": 0.7,
+		"id": "cakeEat",
+		"soundEvent": "minecraft:entity.generic.eat"
+	},
+	"enableEnderpearlVariety": true,
+	"disableBlocksEntirely": false
 }

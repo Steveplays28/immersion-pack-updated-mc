@@ -1,4 +1,5 @@
 {
+	"ignoreSilencedStatusEffects": true,
 	"positiveStatusEffectGainSoundEffect": {
 		"shouldPlay": true,
 		"pitch": 2.0,

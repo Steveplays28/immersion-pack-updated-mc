@@ -32,7 +32,7 @@
 		"shouldPlay": false
 	},
 	"inventoryScrollSoundEffect": {
-		"shouldPlay": true,
+		"shouldPlay": false,
 		"pitch": 1.8,
 		"volume": 0.2,
 		"id": "inventoryScroll",
@@ -45,6 +45,7 @@
 		"id": "inventoryTyping",
 		"soundEvent": "minecraft:block.note_block.hat"
 	},
+	"ignoreEmptyInventorySlots": false,
 	"itemDropSoundEffect": {
 		"pitch": 1.5,
 		"volume": 0.4,
@@ -85,5 +86,7 @@
 		"soundEvent": "minecraft:block.stone.hit",
 		"shouldPlay": true
 	},
-	"ignoreEmptyHotbarSlots": false
+	"ignoreEmptyHotbarSlots": false,
+	"itemSoundCooldown": 0.05,
+	"enableItemSoundCooldown": true
 }

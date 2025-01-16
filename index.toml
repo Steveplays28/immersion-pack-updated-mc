@@ -274,19 +274,19 @@ hash = "52bd51398330043be7fc672b5728a193526d3824713f221359afe155e84960a5"
 
 [[files]]
 file = "config/yosbr/config/sounds/chat.json"
-hash = "0cc60d898f0e9c4cec55548870775825517b6fb863db25ad86ad171d9bed245c"
+hash = "5a45f8037bb54f026e4551997ecea405ef192aa2a4c18da7d645a4269471ebc9"
 
 [[files]]
 file = "config/yosbr/config/sounds/event.json"
-hash = "2d7e2faf7782a225d8010deb00042bf30509a6bfd5b238e86fa1c6972f12d71f"
+hash = "6245d6fd01be9aac33c2c7967fb795b8542a21526623ffc19a85596b3a6e1d1f"
 
 [[files]]
 file = "config/yosbr/config/sounds/ui.json"
-hash = "9445b8aa5bbe537a43df6c38b822d7d4206017e2cd4653ea51f29c3d446f39f8"
+hash = "b94500db31001518f24c7238ba519a06087dc3e33fadd25a414e86e9d23f0fc7"
 
 [[files]]
 file = "config/yosbr/config/sounds/world.json"
-hash = "b823c547a0013865bcb814b0a00e7b2914a2f90ca5a3f674974977a434ef6006"
+hash = "370cb0d795cd5143f878dbaa489ba2ec7cbd14228cafa07d4a86a27a2e08f923"
 
 [[files]]
 file = "config/yosbr/config/spark/config.json"
