@@ -1561,6 +1561,14 @@ file = "resources/datapack/required/venture_non_forgero_tool_recipe_removal/pack
 hash = "bef617b0db2e8f3bd3dfcd984246221f27e5515dd7b490abafee84fce17b572f"
 
 [[files]]
+file = "resources/datapack/required/venture_pillager_items_removal/data/c/tags/item/hidden_from_recipe_viewers.json"
+hash = "383185d7ddf9200e919101bd393688abd83dc896ebb1461c29c1d81d898c0f7e"
+
+[[files]]
+file = "resources/datapack/required/venture_pillager_items_removal/pack.mcmeta"
+hash = "131fd8290e714620b2850cd3ec0541415b8000963f5288f179e7a524d72615c9"
+
+[[files]]
 file = "resources/datapack/required/venture_structure_removal/data/bigglobe/tags/worldgen/biome/has_structure/abandoned_city.json"
 hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
 

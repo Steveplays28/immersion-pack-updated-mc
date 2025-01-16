@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:pillager_spawn_egg",
+    "minecraft:evoker_spawn_egg",
+    "minecraft:vindicator_spawn_egg",
+    "minecraft:ravager_spawn_egg",
+    "minecraft:ominous_bottle",
+    "minecraft:totem_of_undying"
+  ]
+}
