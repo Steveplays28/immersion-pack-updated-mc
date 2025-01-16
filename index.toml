@@ -1513,6 +1513,14 @@ file = "resources/datapack/required/venture_advancements/pack.mcmeta"
 hash = "5b57957432596905dcd8e5f714aa2f9619382649f5fd7eac840715e62089782c"
 
 [[files]]
+file = "resources/datapack/required/venture_cloud_items_removal/data/c/tags/item/hidden_from_recipe_viewers.json"
+hash = "4e569eff1239366522d371be5fe67c143d1dea092b63edc6ae348e61ed5e0b1d"
+
+[[files]]
+file = "resources/datapack/required/venture_cloud_items_removal/pack.mcmeta"
+hash = "33b92ad1deae80de4112fc1e8d1b6beffc0a5b2e958ef4deafe07f86e50367b7"
+
+[[files]]
 file = "resources/datapack/required/venture_enchanting_items_removal/data/c/tags/item/hidden_from_recipe_viewers.json"
 hash = "c5093641b07b7d4dae4b86998be71784cf0e25f281a13152b161fd5b1852817b"
 
