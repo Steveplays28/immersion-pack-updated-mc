@@ -1534,7 +1534,7 @@ hash = "61dc20cd71a00662bcec43c11bc7d8229327f4af065e0ad776afc781188a3f76"
 
 [[files]]
 file = "resources/datapack/required/venture_end_items_removal/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "3857685214423c3fd0f86d913dedd38997264e8d8de419bf6e27a5e35a3ab4cb"
+hash = "a0b1a8081b130e931f817499fb528e60e6c73bc7a8c2d5858875c116e593a4bd"
 
 [[files]]
 file = "resources/datapack/required/venture_end_items_removal/data/techreborn/recipe/dragon_egg_syphon.json"
