@@ -1,0 +1,9 @@
+{
+  "shorthand_hud_location": "NEAR_CENTER", // NEAR_CENTER (Default) : FAR_CORNER
+  "tool_belt_hud_visibility": "CONTEXT", // HIDDEN : SELECTED : CONTEXT (Default)
+  "elytra_model_equipment": "elytra", // effects the position of the backpack on the player's back while these items are equipped in the chestplate slot
+  "disable_backpack_render": false,  // Disables backpacks and "beansbackpacks:equipable" rendering on the player : Default: false
+  "disable_shorthand_render": false, // Disables shorthand item rendering on the player's back : Default: false
+  "back_slot_pos": ["77", "44"],
+  "back_and_utility_direction": "UP" // UP (Default) : LEFT : DOWN : RIGHT
+}

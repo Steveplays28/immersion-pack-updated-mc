@@ -1,0 +1,13 @@
+name = "Beans Backpacks"
+filename = "beansbackpacks-fabric-1.21-0.7-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o4TtgIhD/versions/vgZEkBDs/beansbackpacks-fabric-1.21-0.7-beta.jar"
+hash-format = "sha1"
+hash = "5a533c5b047104b89d4d11e902ce0746ce2356c4"
+
+[update]
+[update.modrinth]
+mod-id = "o4TtgIhD"
+version = "vgZEkBDs"

@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/beansbackpacks/client.json5"
+hash = "28a2838e68180663d147b9391e5509e7905f3f26d19136c18f8b9018a8b875db"
+
+[[files]]
+file = "config/beansbackpacks/common.json5"
+hash = "003038bb6e4aa4cb3943460beeff7be39b14f1aa2b3bffccafe2a0d9abff368d"
+
+[[files]]
+file = "config/beansbackpacks/features.json5"
+hash = "c611b7e3e43aca1dbee23f57dbd9fdd480c5960f3982498b0a98b774f27e79fc"
+
+[[files]]
 file = "config/bigglobe/Big Globe.json5"
 hash = "83bdfb194c536b4dfaccbab1d997aa69b536de6b203c6976c8b16b63df6072fd"
 
@@ -171,6 +183,10 @@ hash = "b79bb5410ba675b9604a9f79f0e80391554d213302db80ea8fd44a5240ab9e0e"
 [[files]]
 file = "config/ok_zoomer/config.toml"
 hash = "fa0059344bcf5e34015ee896e19966b55028ed3bc9f735a49eeb4d185f64714f"
+
+[[files]]
+file = "config/passablefoliage-common.yaml"
+hash = "bd39f0beac3ff5ed7078b65a53a5461110c4267d256069e6ff3b1320dbbb47f4"
 
 [[files]]
 file = "config/random_mob_sizes.json"
@@ -404,6 +420,11 @@ hash = "16b8b655b524d5fcfd5b8547cbe863ece0b58e5ce834702407a17ee43c933763"
 metafile = true
 
 [[files]]
+file = "mods/beans-backpacks-3.pw.toml"
+hash = "564526bf680754595c45e9a1245a11c029809f20c62b439ada2126838f42985e"
+metafile = true
+
+[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "addcf49aed865bb9eb5b7c56d312fbd56e25d14094e7dede63100ad8981e402e"
 metafile = true
@@ -491,6 +512,11 @@ metafile = true
 [[files]]
 file = "mods/boids.pw.toml"
 hash = "ec8287b80210ae44f5ded2585678cbc96ee5d6fa1f28cc4846844734e39854d2"
+metafile = true
+
+[[files]]
+file = "mods/bookmark.pw.toml"
+hash = "3d3ff8ec2b09bca185deffd34337acafc40001f867eeb40b213056f6cc257f8e"
 metafile = true
 
 [[files]]
@@ -1108,6 +1134,11 @@ hash = "00c1eb0a5862480323a292cbd7147caa57ebc05449b225f90cbb45edcbea4b70"
 metafile = true
 
 [[files]]
+file = "mods/ore-extraction.pw.toml"
+hash = "b57588f9569fc95a172f8fd79f638255f0a3ac71bb18ea19d53bf7f3956a714a"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "4016499977a50addf35b81447a7e2bfbe8d1cebcaf341edcbd7bb5ac83f4ed3a"
 metafile = true
@@ -1125,6 +1156,11 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "aacc7f91f460aa66ca6d47d521a41b1c176ceb9e3a4314604cfa1421325bd29b"
+metafile = true
+
+[[files]]
+file = "mods/passable-foliage.pw.toml"
+hash = "8f75f50a2229f9eb68e0271b12c4c96d454e9612d5768a696d27cb1de07a8d2a"
 metafile = true
 
 [[files]]

@@ -1,0 +1,12 @@
+{
+  "tool_belt_size": 2,               // 0 - 5  Default: 2
+  "shorthand_size": 1,               // 0 - 4  Default: 1
+  "tool_belt_additions": "",
+  "shorthand_additions": "",
+  "allow_shorthand_weapons": false,  // Can weapons be placed in the shorthand : Default: false
+  "tool_belt_break_items": false,    // Will the Tool Belt continue to use a tool until it breaks : Default: false
+  "keep_back_on_death": false,       // On death, the player will drop their equipment in the Back Slot : Default: false
+  "keep_tool_belt_on_death": false,  // On death, the player will drop their equipment in the Tool Belt : Default: false
+  "keep_shorthand_on_death": false,  // On death, the player will drop their equipment in the Shorthand : Default: false
+  "do_nbt_stacking": false           // Matching items which do not stack due to differing nbt now can stack : Default: false
+}

@@ -1,0 +1,13 @@
+name = "Ore Extraction"
+filename = "ore-extraction-1.21-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KkEEtrvz/versions/ifdAclOz/ore-extraction-1.21-1.21.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "7601f30c86288c0c194d8f33c73d4e143c719679"
+
+[update]
+[update.modrinth]
+mod-id = "KkEEtrvz"
+version = "ifdAclOz"
